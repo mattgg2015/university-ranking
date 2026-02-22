@@ -1,6 +1,6 @@
 # College Rankings by Revealed Preference
 
-I noticed that US News rankings sometimes didn't match my notion of where students actually wanted to go. So I scraped [Parchment's cross-admit tool](https://www.parchment.com/c/college/tools/college-cross-admit-comparison.php), which shows what percentage of students choose each school when admitted to both. For example, [MIT vs Stanford](https://www.parchment.com/c/college/tools/college-cross-admit-comparison.php?compare=Massachusetts%20Institute%20of%20Technology&with=Stanford%20University) shows 62% pick MIT. If students are rational agents making informed decisions, these choices reveal something rankings can't.
+I noticed that US News rankings sometimes didn't match my notion of where students actually wanted to go. So I scraped [Parchment's cross-admit tool](https://www.parchment.com/c/college/tools/college-cross-admit-comparison.php), which shows what percentage of students choose each school when admitted to both. For example, [MIT vs Stanford](https://www.parchment.com/c/college/tools/college-cross-admit-comparison.php?compare=Massachusetts%20Institute%20of%20Technology&with=Stanford%20University) shows 62% pick MIT. We assume that students are rational students making informed decisions. 
 
 ## The Data
 
