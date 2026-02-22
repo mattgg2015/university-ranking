@@ -1,0 +1,5462 @@
+[
+  {
+    "school_a": "Princeton University",
+    "school_b": "Massachusetts Institute of Technology",
+    "pct_a": 42.0,
+    "ci_low_a": 30.7,
+    "ci_high_a": 53.4
+  },
+  {
+    "school_a": "Princeton University",
+    "school_b": "Harvard University",
+    "pct_a": 27.0,
+    "ci_low_a": 19.9,
+    "ci_high_a": 33.6
+  },
+  {
+    "school_a": "Princeton University",
+    "school_b": "Stanford University",
+    "pct_a": 27.0,
+    "ci_low_a": 18.3,
+    "ci_high_a": 35.3
+  },
+  {
+    "school_a": "Princeton University",
+    "school_b": "Yale University",
+    "pct_a": 42.0,
+    "ci_low_a": 34.8,
+    "ci_high_a": 49.6
+  },
+  {
+    "school_a": "Princeton University",
+    "school_b": "University of Chicago",
+    "pct_a": 64.0,
+    "ci_low_a": 49.6,
+    "ci_high_a": 78.1
+  },
+  {
+    "school_a": "Princeton University",
+    "school_b": "Duke University",
+    "pct_a": 82.0,
+    "ci_low_a": 72.9,
+    "ci_high_a": 90.2
+  },
+  {
+    "school_a": "Princeton University",
+    "school_b": "Johns Hopkins University",
+    "pct_a": 84.0,
+    "ci_low_a": 75.5,
+    "ci_high_a": 92.1
+  },
+  {
+    "school_a": "Princeton University",
+    "school_b": "Northwestern University",
+    "pct_a": 78.0,
+    "ci_low_a": 67.2,
+    "ci_high_a": 89.4
+  },
+  {
+    "school_a": "Princeton University",
+    "school_b": "University of Pennsylvania",
+    "pct_a": 74.0,
+    "ci_low_a": 64.2,
+    "ci_high_a": 83.6
+  },
+  {
+    "school_a": "Princeton University",
+    "school_b": "California Institute of Technology",
+    "pct_a": 60.0,
+    "ci_low_a": 40.1,
+    "ci_high_a": 80.6
+  },
+  {
+    "school_a": "Princeton University",
+    "school_b": "Cornell University",
+    "pct_a": 89.0,
+    "ci_low_a": 83.7,
+    "ci_high_a": 94.7
+  },
+  {
+    "school_a": "Princeton University",
+    "school_b": "Brown University",
+    "pct_a": 79.0,
+    "ci_low_a": 70.5,
+    "ci_high_a": 87.9
+  },
+  {
+    "school_a": "Princeton University",
+    "school_b": "Dartmouth College",
+    "pct_a": 55.0,
+    "ci_low_a": 39.5,
+    "ci_high_a": 69.7
+  },
+  {
+    "school_a": "Princeton University",
+    "school_b": "Columbia University in the City of New York",
+    "pct_a": 53.0,
+    "ci_low_a": 44.3,
+    "ci_high_a": 62.0
+  },
+  {
+    "school_a": "Princeton University",
+    "school_b": "University of California, Berkeley",
+    "pct_a": 74.0,
+    "ci_low_a": 64.2,
+    "ci_high_a": 83.6
+  },
+  {
+    "school_a": "Princeton University",
+    "school_b": "University of California, Los Angeles",
+    "pct_a": 59.0,
+    "ci_low_a": 48.7,
+    "ci_high_a": 69.6
+  },
+  {
+    "school_a": "Princeton University",
+    "school_b": "Rice University",
+    "pct_a": 80.0,
+    "ci_low_a": 70.5,
+    "ci_high_a": 90.4
+  },
+  {
+    "school_a": "Princeton University",
+    "school_b": "Vanderbilt University",
+    "pct_a": 80.0,
+    "ci_low_a": 70.5,
+    "ci_high_a": 90.4
+  },
+  {
+    "school_a": "Princeton University",
+    "school_b": "Carnegie Mellon University",
+    "pct_a": 85.0,
+    "ci_low_a": 77.4,
+    "ci_high_a": 92.7
+  },
+  {
+    "school_a": "Princeton University",
+    "school_b": "University of Michigan - Ann Arbor",
+    "pct_a": 77.0,
+    "ci_low_a": 69.3,
+    "ci_high_a": 84.3
+  },
+  {
+    "school_a": "Princeton University",
+    "school_b": "University of Notre Dame",
+    "pct_a": 76.0,
+    "ci_low_a": 63.0,
+    "ci_high_a": 88.0
+  },
+  {
+    "school_a": "Princeton University",
+    "school_b": "Washington University in St. Louis",
+    "pct_a": 67.0,
+    "ci_low_a": 50.3,
+    "ci_high_a": 83.9
+  },
+  {
+    "school_a": "Princeton University",
+    "school_b": "Emory University",
+    "pct_a": 70.0,
+    "ci_low_a": 56.7,
+    "ci_high_a": 83.9
+  },
+  {
+    "school_a": "Princeton University",
+    "school_b": "Georgetown University",
+    "pct_a": 67.0,
+    "ci_low_a": 50.3,
+    "ci_high_a": 83.9
+  },
+  {
+    "school_a": "Princeton University",
+    "school_b": "University of North Carolina at Chapel Hill",
+    "pct_a": 76.0,
+    "ci_low_a": 63.0,
+    "ci_high_a": 88.0
+  },
+  {
+    "school_a": "Princeton University",
+    "school_b": "University of Virginia",
+    "pct_a": 77.0,
+    "ci_low_a": 69.0,
+    "ci_high_a": 86.0
+  },
+  {
+    "school_a": "Princeton University",
+    "school_b": "University of Southern California",
+    "pct_a": 67.0,
+    "ci_low_a": 53.6,
+    "ci_high_a": 80.1
+  },
+  {
+    "school_a": "Princeton University",
+    "school_b": "University of California, San Diego",
+    "pct_a": 77.0,
+    "ci_low_a": 66.7,
+    "ci_high_a": 87.8
+  },
+  {
+    "school_a": "Princeton University",
+    "school_b": "University of Florida",
+    "pct_a": 50.0,
+    "ci_low_a": 29.3,
+    "ci_high_a": 70.7
+  },
+  {
+    "school_a": "Princeton University",
+    "school_b": "University of Texas at Austin",
+    "pct_a": 67.0,
+    "ci_low_a": 53.6,
+    "ci_high_a": 80.1
+  },
+  {
+    "school_a": "Princeton University",
+    "school_b": "Georgia Institute of Technology",
+    "pct_a": 84.0,
+    "ci_low_a": 77.2,
+    "ci_high_a": 91.8
+  },
+  {
+    "school_a": "Princeton University",
+    "school_b": "New York University",
+    "pct_a": 76.0,
+    "ci_low_a": 63.0,
+    "ci_high_a": 88.0
+  },
+  {
+    "school_a": "Princeton University",
+    "school_b": "University of California, Davis",
+    "pct_a": 60.0,
+    "ci_low_a": 40.1,
+    "ci_high_a": 80.6
+  },
+  {
+    "school_a": "Princeton University",
+    "school_b": "University of California, Irvine",
+    "pct_a": 67.0,
+    "ci_low_a": 53.6,
+    "ci_high_a": 80.1
+  },
+  {
+    "school_a": "Princeton University",
+    "school_b": "Boston College",
+    "pct_a": null,
+    "ci_low_a": null,
+    "ci_high_a": null
+  },
+  {
+    "school_a": "Princeton University",
+    "school_b": "Tufts University",
+    "pct_a": 60.0,
+    "ci_low_a": 40.1,
+    "ci_high_a": 80.6
+  },
+  {
+    "school_a": "Princeton University",
+    "school_b": "University of Illinois at Urbana-Champaign",
+    "pct_a": 78.0,
+    "ci_low_a": 67.2,
+    "ci_high_a": 89.4
+  },
+  {
+    "school_a": "Princeton University",
+    "school_b": "University of Wisconsin - Madison",
+    "pct_a": 78.0,
+    "ci_low_a": 67.2,
+    "ci_high_a": 89.4
+  },
+  {
+    "school_a": "Princeton University",
+    "school_b": "University of California, Santa Barbara",
+    "pct_a": 67.0,
+    "ci_low_a": 52.0,
+    "ci_high_a": 82.0
+  },
+  {
+    "school_a": "Massachusetts Institute of Technology",
+    "school_b": "Harvard University",
+    "pct_a": 64.0,
+    "ci_low_a": 55.4,
+    "ci_high_a": 72.0
+  },
+  {
+    "school_a": "Massachusetts Institute of Technology",
+    "school_b": "Stanford University",
+    "pct_a": 61.0,
+    "ci_low_a": 53.0,
+    "ci_high_a": 69.3
+  },
+  {
+    "school_a": "Massachusetts Institute of Technology",
+    "school_b": "Yale University",
+    "pct_a": 61.0,
+    "ci_low_a": 52.6,
+    "ci_high_a": 68.5
+  },
+  {
+    "school_a": "Massachusetts Institute of Technology",
+    "school_b": "University of Chicago",
+    "pct_a": 60.0,
+    "ci_low_a": 44.8,
+    "ci_high_a": 75.5
+  },
+  {
+    "school_a": "Massachusetts Institute of Technology",
+    "school_b": "Duke University",
+    "pct_a": 75.0,
+    "ci_low_a": 63.9,
+    "ci_high_a": 86.8
+  },
+  {
+    "school_a": "Massachusetts Institute of Technology",
+    "school_b": "Johns Hopkins University",
+    "pct_a": 74.0,
+    "ci_low_a": 62.7,
+    "ci_high_a": 84.4
+  },
+  {
+    "school_a": "Massachusetts Institute of Technology",
+    "school_b": "Northwestern University",
+    "pct_a": 84.0,
+    "ci_low_a": 75.5,
+    "ci_high_a": 92.1
+  },
+  {
+    "school_a": "Massachusetts Institute of Technology",
+    "school_b": "University of Pennsylvania",
+    "pct_a": 73.0,
+    "ci_low_a": 60.6,
+    "ci_high_a": 85.5
+  },
+  {
+    "school_a": "Massachusetts Institute of Technology",
+    "school_b": "California Institute of Technology",
+    "pct_a": 72.0,
+    "ci_low_a": 62.2,
+    "ci_high_a": 82.6
+  },
+  {
+    "school_a": "Massachusetts Institute of Technology",
+    "school_b": "Cornell University",
+    "pct_a": 82.0,
+    "ci_low_a": 72.9,
+    "ci_high_a": 90.2
+  },
+  {
+    "school_a": "Massachusetts Institute of Technology",
+    "school_b": "Brown University",
+    "pct_a": 78.0,
+    "ci_low_a": 67.2,
+    "ci_high_a": 89.4
+  },
+  {
+    "school_a": "Massachusetts Institute of Technology",
+    "school_b": "Dartmouth College",
+    "pct_a": 50.0,
+    "ci_low_a": 32.1,
+    "ci_high_a": 67.9
+  },
+  {
+    "school_a": "Massachusetts Institute of Technology",
+    "school_b": "Columbia University in the City of New York",
+    "pct_a": 57.0,
+    "ci_low_a": 46.2,
+    "ci_high_a": 66.9
+  },
+  {
+    "school_a": "Massachusetts Institute of Technology",
+    "school_b": "University of California, Berkeley",
+    "pct_a": 89.0,
+    "ci_low_a": 84.4,
+    "ci_high_a": 93.8
+  },
+  {
+    "school_a": "Massachusetts Institute of Technology",
+    "school_b": "University of California, Los Angeles",
+    "pct_a": 87.0,
+    "ci_low_a": 81.2,
+    "ci_high_a": 92.5
+  },
+  {
+    "school_a": "Massachusetts Institute of Technology",
+    "school_b": "Rice University",
+    "pct_a": 69.0,
+    "ci_low_a": 57.1,
+    "ci_high_a": 81.8
+  },
+  {
+    "school_a": "Massachusetts Institute of Technology",
+    "school_b": "Vanderbilt University",
+    "pct_a": 80.0,
+    "ci_low_a": 70.5,
+    "ci_high_a": 90.4
+  },
+  {
+    "school_a": "Massachusetts Institute of Technology",
+    "school_b": "Carnegie Mellon University",
+    "pct_a": 91.0,
+    "ci_low_a": 86.7,
+    "ci_high_a": 95.7
+  },
+  {
+    "school_a": "Massachusetts Institute of Technology",
+    "school_b": "University of Michigan - Ann Arbor",
+    "pct_a": 87.0,
+    "ci_low_a": 82.8,
+    "ci_high_a": 91.5
+  },
+  {
+    "school_a": "Massachusetts Institute of Technology",
+    "school_b": "University of Notre Dame",
+    "pct_a": 72.0,
+    "ci_low_a": 57.6,
+    "ci_high_a": 86.2
+  },
+  {
+    "school_a": "Massachusetts Institute of Technology",
+    "school_b": "Washington University in St. Louis",
+    "pct_a": 67.0,
+    "ci_low_a": 50.3,
+    "ci_high_a": 83.9
+  },
+  {
+    "school_a": "Massachusetts Institute of Technology",
+    "school_b": "Emory University",
+    "pct_a": 67.0,
+    "ci_low_a": 50.3,
+    "ci_high_a": 83.9
+  },
+  {
+    "school_a": "Massachusetts Institute of Technology",
+    "school_b": "Georgetown University",
+    "pct_a": 67.0,
+    "ci_low_a": 50.3,
+    "ci_high_a": 83.9
+  },
+  {
+    "school_a": "Massachusetts Institute of Technology",
+    "school_b": "University of North Carolina at Chapel Hill",
+    "pct_a": 76.0,
+    "ci_low_a": 63.0,
+    "ci_high_a": 88.0
+  },
+  {
+    "school_a": "Massachusetts Institute of Technology",
+    "school_b": "University of Virginia",
+    "pct_a": 84.0,
+    "ci_low_a": 75.9,
+    "ci_high_a": 91.3
+  },
+  {
+    "school_a": "Massachusetts Institute of Technology",
+    "school_b": "University of Southern California",
+    "pct_a": 73.0,
+    "ci_low_a": 60.6,
+    "ci_high_a": 85.5
+  },
+  {
+    "school_a": "Massachusetts Institute of Technology",
+    "school_b": "University of California, San Diego",
+    "pct_a": 88.0,
+    "ci_low_a": 82.7,
+    "ci_high_a": 93.8
+  },
+  {
+    "school_a": "Massachusetts Institute of Technology",
+    "school_b": "University of Florida",
+    "pct_a": 40.0,
+    "ci_low_a": 19.4,
+    "ci_high_a": 59.9
+  },
+  {
+    "school_a": "Massachusetts Institute of Technology",
+    "school_b": "University of Texas at Austin",
+    "pct_a": 89.0,
+    "ci_low_a": 84.4,
+    "ci_high_a": 93.8
+  },
+  {
+    "school_a": "Massachusetts Institute of Technology",
+    "school_b": "Georgia Institute of Technology",
+    "pct_a": 89.0,
+    "ci_low_a": 85.0,
+    "ci_high_a": 93.0
+  },
+  {
+    "school_a": "Massachusetts Institute of Technology",
+    "school_b": "New York University",
+    "pct_a": 80.0,
+    "ci_low_a": 70.5,
+    "ci_high_a": 90.4
+  },
+  {
+    "school_a": "Massachusetts Institute of Technology",
+    "school_b": "University of California, Davis",
+    "pct_a": 84.0,
+    "ci_low_a": 75.5,
+    "ci_high_a": 92.1
+  },
+  {
+    "school_a": "Massachusetts Institute of Technology",
+    "school_b": "University of California, Irvine",
+    "pct_a": 83.0,
+    "ci_low_a": 74.5,
+    "ci_high_a": 90.8
+  },
+  {
+    "school_a": "Massachusetts Institute of Technology",
+    "school_b": "Boston College",
+    "pct_a": 60.0,
+    "ci_low_a": 40.1,
+    "ci_high_a": 80.6
+  },
+  {
+    "school_a": "Massachusetts Institute of Technology",
+    "school_b": "Tufts University",
+    "pct_a": 60.0,
+    "ci_low_a": 40.1,
+    "ci_high_a": 80.6
+  },
+  {
+    "school_a": "Massachusetts Institute of Technology",
+    "school_b": "University of Illinois at Urbana-Champaign",
+    "pct_a": 86.0,
+    "ci_low_a": 79.4,
+    "ci_high_a": 92.6
+  },
+  {
+    "school_a": "Massachusetts Institute of Technology",
+    "school_b": "University of Wisconsin - Madison",
+    "pct_a": 72.0,
+    "ci_low_a": 60.1,
+    "ci_high_a": 83.2
+  },
+  {
+    "school_a": "Massachusetts Institute of Technology",
+    "school_b": "University of California, Santa Barbara",
+    "pct_a": 77.0,
+    "ci_low_a": 66.7,
+    "ci_high_a": 87.8
+  },
+  {
+    "school_a": "Harvard University",
+    "school_b": "Stanford University",
+    "pct_a": 65.0,
+    "ci_low_a": 59.0,
+    "ci_high_a": 70.0
+  },
+  {
+    "school_a": "Harvard University",
+    "school_b": "Yale University",
+    "pct_a": 63.0,
+    "ci_low_a": 58.8,
+    "ci_high_a": 68.2
+  },
+  {
+    "school_a": "Harvard University",
+    "school_b": "University of Chicago",
+    "pct_a": 67.0,
+    "ci_low_a": 55.9,
+    "ci_high_a": 77.8
+  },
+  {
+    "school_a": "Harvard University",
+    "school_b": "Duke University",
+    "pct_a": 81.0,
+    "ci_low_a": 75.2,
+    "ci_high_a": 86.9
+  },
+  {
+    "school_a": "Harvard University",
+    "school_b": "Johns Hopkins University",
+    "pct_a": 74.0,
+    "ci_low_a": 64.2,
+    "ci_high_a": 83.6
+  },
+  {
+    "school_a": "Harvard University",
+    "school_b": "Northwestern University",
+    "pct_a": 79.0,
+    "ci_low_a": 72.3,
+    "ci_high_a": 86.7
+  },
+  {
+    "school_a": "Harvard University",
+    "school_b": "University of Pennsylvania",
+    "pct_a": 80.0,
+    "ci_low_a": 73.6,
+    "ci_high_a": 86.7
+  },
+  {
+    "school_a": "Harvard University",
+    "school_b": "California Institute of Technology",
+    "pct_a": 72.0,
+    "ci_low_a": 57.6,
+    "ci_high_a": 86.2
+  },
+  {
+    "school_a": "Harvard University",
+    "school_b": "Cornell University",
+    "pct_a": 83.0,
+    "ci_low_a": 78.0,
+    "ci_high_a": 89.0
+  },
+  {
+    "school_a": "Harvard University",
+    "school_b": "Brown University",
+    "pct_a": 90.0,
+    "ci_low_a": 86.3,
+    "ci_high_a": 94.5
+  },
+  {
+    "school_a": "Harvard University",
+    "school_b": "Dartmouth College",
+    "pct_a": 86.0,
+    "ci_low_a": 79.4,
+    "ci_high_a": 92.6
+  },
+  {
+    "school_a": "Harvard University",
+    "school_b": "Columbia University in the City of New York",
+    "pct_a": 70.0,
+    "ci_low_a": 62.9,
+    "ci_high_a": 77.3
+  },
+  {
+    "school_a": "Harvard University",
+    "school_b": "University of California, Berkeley",
+    "pct_a": 69.0,
+    "ci_low_a": 62.9,
+    "ci_high_a": 75.7
+  },
+  {
+    "school_a": "Harvard University",
+    "school_b": "University of California, Los Angeles",
+    "pct_a": 60.0,
+    "ci_low_a": 53.7,
+    "ci_high_a": 67.1
+  },
+  {
+    "school_a": "Harvard University",
+    "school_b": "Rice University",
+    "pct_a": 84.0,
+    "ci_low_a": 77.2,
+    "ci_high_a": 91.8
+  },
+  {
+    "school_a": "Harvard University",
+    "school_b": "Vanderbilt University",
+    "pct_a": 84.0,
+    "ci_low_a": 75.9,
+    "ci_high_a": 91.3
+  },
+  {
+    "school_a": "Harvard University",
+    "school_b": "Carnegie Mellon University",
+    "pct_a": 72.0,
+    "ci_low_a": 57.6,
+    "ci_high_a": 86.2
+  },
+  {
+    "school_a": "Harvard University",
+    "school_b": "University of Michigan - Ann Arbor",
+    "pct_a": 65.0,
+    "ci_low_a": 59.6,
+    "ci_high_a": 69.5
+  },
+  {
+    "school_a": "Harvard University",
+    "school_b": "University of Notre Dame",
+    "pct_a": 74.0,
+    "ci_low_a": 62.7,
+    "ci_high_a": 84.4
+  },
+  {
+    "school_a": "Harvard University",
+    "school_b": "Washington University in St. Louis",
+    "pct_a": 85.0,
+    "ci_low_a": 77.4,
+    "ci_high_a": 92.7
+  },
+  {
+    "school_a": "Harvard University",
+    "school_b": "Emory University",
+    "pct_a": 86.0,
+    "ci_low_a": 79.4,
+    "ci_high_a": 92.6
+  },
+  {
+    "school_a": "Harvard University",
+    "school_b": "Georgetown University",
+    "pct_a": 85.0,
+    "ci_low_a": 78.3,
+    "ci_high_a": 92.2
+  },
+  {
+    "school_a": "Harvard University",
+    "school_b": "University of North Carolina at Chapel Hill",
+    "pct_a": 84.0,
+    "ci_low_a": 77.2,
+    "ci_high_a": 91.8
+  },
+  {
+    "school_a": "Harvard University",
+    "school_b": "University of Virginia",
+    "pct_a": 71.0,
+    "ci_low_a": 63.0,
+    "ci_high_a": 79.1
+  },
+  {
+    "school_a": "Harvard University",
+    "school_b": "University of Southern California",
+    "pct_a": 77.0,
+    "ci_low_a": 69.0,
+    "ci_high_a": 86.0
+  },
+  {
+    "school_a": "Harvard University",
+    "school_b": "University of California, San Diego",
+    "pct_a": 67.0,
+    "ci_low_a": 57.8,
+    "ci_high_a": 75.8
+  },
+  {
+    "school_a": "Harvard University",
+    "school_b": "University of Florida",
+    "pct_a": 45.0,
+    "ci_low_a": 30.3,
+    "ci_high_a": 60.5
+  },
+  {
+    "school_a": "Harvard University",
+    "school_b": "University of Texas at Austin",
+    "pct_a": 77.0,
+    "ci_low_a": 69.0,
+    "ci_high_a": 86.0
+  },
+  {
+    "school_a": "Harvard University",
+    "school_b": "Georgia Institute of Technology",
+    "pct_a": 64.0,
+    "ci_low_a": 54.5,
+    "ci_high_a": 73.6
+  },
+  {
+    "school_a": "Harvard University",
+    "school_b": "New York University",
+    "pct_a": 67.0,
+    "ci_low_a": 54.9,
+    "ci_high_a": 78.8
+  },
+  {
+    "school_a": "Harvard University",
+    "school_b": "University of California, Davis",
+    "pct_a": 50.0,
+    "ci_low_a": 34.1,
+    "ci_high_a": 65.9
+  },
+  {
+    "school_a": "Harvard University",
+    "school_b": "University of California, Irvine",
+    "pct_a": 69.0,
+    "ci_low_a": 57.6,
+    "ci_high_a": 80.2
+  },
+  {
+    "school_a": "Harvard University",
+    "school_b": "Boston College",
+    "pct_a": 80.0,
+    "ci_low_a": 70.5,
+    "ci_high_a": 90.4
+  },
+  {
+    "school_a": "Harvard University",
+    "school_b": "Tufts University",
+    "pct_a": 78.0,
+    "ci_low_a": 67.2,
+    "ci_high_a": 89.4
+  },
+  {
+    "school_a": "Harvard University",
+    "school_b": "University of Illinois at Urbana-Champaign",
+    "pct_a": 65.0,
+    "ci_low_a": 54.6,
+    "ci_high_a": 75.7
+  },
+  {
+    "school_a": "Harvard University",
+    "school_b": "University of Wisconsin - Madison",
+    "pct_a": 53.0,
+    "ci_low_a": 44.5,
+    "ci_high_a": 61.1
+  },
+  {
+    "school_a": "Harvard University",
+    "school_b": "University of California, Santa Barbara",
+    "pct_a": 70.0,
+    "ci_low_a": 56.7,
+    "ci_high_a": 83.9
+  },
+  {
+    "school_a": "Stanford University",
+    "school_b": "Yale University",
+    "pct_a": 47.0,
+    "ci_low_a": 40.0,
+    "ci_high_a": 53.1
+  },
+  {
+    "school_a": "Stanford University",
+    "school_b": "University of Chicago",
+    "pct_a": 67.0,
+    "ci_low_a": 53.6,
+    "ci_high_a": 80.1
+  },
+  {
+    "school_a": "Stanford University",
+    "school_b": "Duke University",
+    "pct_a": 73.0,
+    "ci_low_a": 64.7,
+    "ci_high_a": 81.7
+  },
+  {
+    "school_a": "Stanford University",
+    "school_b": "Johns Hopkins University",
+    "pct_a": 84.0,
+    "ci_low_a": 75.5,
+    "ci_high_a": 92.1
+  },
+  {
+    "school_a": "Stanford University",
+    "school_b": "Northwestern University",
+    "pct_a": 89.0,
+    "ci_low_a": 83.7,
+    "ci_high_a": 94.7
+  },
+  {
+    "school_a": "Stanford University",
+    "school_b": "University of Pennsylvania",
+    "pct_a": 73.0,
+    "ci_low_a": 63.7,
+    "ci_high_a": 82.1
+  },
+  {
+    "school_a": "Stanford University",
+    "school_b": "California Institute of Technology",
+    "pct_a": 67.0,
+    "ci_low_a": 50.3,
+    "ci_high_a": 83.9
+  },
+  {
+    "school_a": "Stanford University",
+    "school_b": "Cornell University",
+    "pct_a": 83.0,
+    "ci_low_a": 76.4,
+    "ci_high_a": 89.5
+  },
+  {
+    "school_a": "Stanford University",
+    "school_b": "Brown University",
+    "pct_a": 77.0,
+    "ci_low_a": 67.0,
+    "ci_high_a": 86.4
+  },
+  {
+    "school_a": "Stanford University",
+    "school_b": "Dartmouth College",
+    "pct_a": 74.0,
+    "ci_low_a": 64.2,
+    "ci_high_a": 83.6
+  },
+  {
+    "school_a": "Stanford University",
+    "school_b": "Columbia University in the City of New York",
+    "pct_a": 64.0,
+    "ci_low_a": 55.4,
+    "ci_high_a": 73.4
+  },
+  {
+    "school_a": "Stanford University",
+    "school_b": "University of California, Berkeley",
+    "pct_a": 77.0,
+    "ci_low_a": 72.6,
+    "ci_high_a": 81.9
+  },
+  {
+    "school_a": "Stanford University",
+    "school_b": "University of California, Los Angeles",
+    "pct_a": 79.0,
+    "ci_low_a": 74.7,
+    "ci_high_a": 84.3
+  },
+  {
+    "school_a": "Stanford University",
+    "school_b": "Rice University",
+    "pct_a": 82.0,
+    "ci_low_a": 73.2,
+    "ci_high_a": 91.3
+  },
+  {
+    "school_a": "Stanford University",
+    "school_b": "Vanderbilt University",
+    "pct_a": 89.0,
+    "ci_low_a": 83.7,
+    "ci_high_a": 94.7
+  },
+  {
+    "school_a": "Stanford University",
+    "school_b": "Carnegie Mellon University",
+    "pct_a": 80.0,
+    "ci_low_a": 71.1,
+    "ci_high_a": 89.5
+  },
+  {
+    "school_a": "Stanford University",
+    "school_b": "University of Michigan - Ann Arbor",
+    "pct_a": 85.0,
+    "ci_low_a": 80.3,
+    "ci_high_a": 90.2
+  },
+  {
+    "school_a": "Stanford University",
+    "school_b": "University of Notre Dame",
+    "pct_a": 79.0,
+    "ci_low_a": 69.0,
+    "ci_high_a": 88.8
+  },
+  {
+    "school_a": "Stanford University",
+    "school_b": "Washington University in St. Louis",
+    "pct_a": 79.0,
+    "ci_low_a": 69.0,
+    "ci_high_a": 88.8
+  },
+  {
+    "school_a": "Stanford University",
+    "school_b": "Emory University",
+    "pct_a": 80.0,
+    "ci_low_a": 70.5,
+    "ci_high_a": 90.4
+  },
+  {
+    "school_a": "Stanford University",
+    "school_b": "Georgetown University",
+    "pct_a": 82.0,
+    "ci_low_a": 72.9,
+    "ci_high_a": 90.2
+  },
+  {
+    "school_a": "Stanford University",
+    "school_b": "University of North Carolina at Chapel Hill",
+    "pct_a": 73.0,
+    "ci_low_a": 60.6,
+    "ci_high_a": 85.5
+  },
+  {
+    "school_a": "Stanford University",
+    "school_b": "University of Virginia",
+    "pct_a": 84.0,
+    "ci_low_a": 75.9,
+    "ci_high_a": 91.3
+  },
+  {
+    "school_a": "Stanford University",
+    "school_b": "University of Southern California",
+    "pct_a": 86.0,
+    "ci_low_a": 80.9,
+    "ci_high_a": 91.6
+  },
+  {
+    "school_a": "Stanford University",
+    "school_b": "University of California, San Diego",
+    "pct_a": 90.0,
+    "ci_low_a": 85.2,
+    "ci_high_a": 94.1
+  },
+  {
+    "school_a": "Stanford University",
+    "school_b": "University of Florida",
+    "pct_a": 56.0,
+    "ci_low_a": 39.0,
+    "ci_high_a": 72.3
+  },
+  {
+    "school_a": "Stanford University",
+    "school_b": "University of Texas at Austin",
+    "pct_a": 77.0,
+    "ci_low_a": 69.1,
+    "ci_high_a": 85.0
+  },
+  {
+    "school_a": "Stanford University",
+    "school_b": "Georgia Institute of Technology",
+    "pct_a": 83.0,
+    "ci_low_a": 76.4,
+    "ci_high_a": 89.5
+  },
+  {
+    "school_a": "Stanford University",
+    "school_b": "New York University",
+    "pct_a": 83.0,
+    "ci_low_a": 74.5,
+    "ci_high_a": 90.8
+  },
+  {
+    "school_a": "Stanford University",
+    "school_b": "University of California, Davis",
+    "pct_a": 85.0,
+    "ci_low_a": 78.3,
+    "ci_high_a": 92.2
+  },
+  {
+    "school_a": "Stanford University",
+    "school_b": "University of California, Irvine",
+    "pct_a": 74.0,
+    "ci_low_a": 66.6,
+    "ci_high_a": 82.0
+  },
+  {
+    "school_a": "Stanford University",
+    "school_b": "Boston College",
+    "pct_a": 67.0,
+    "ci_low_a": 50.3,
+    "ci_high_a": 83.9
+  },
+  {
+    "school_a": "Stanford University",
+    "school_b": "Tufts University",
+    "pct_a": 76.0,
+    "ci_low_a": 63.0,
+    "ci_high_a": 88.0
+  },
+  {
+    "school_a": "Stanford University",
+    "school_b": "University of Illinois at Urbana-Champaign",
+    "pct_a": 60.0,
+    "ci_low_a": 47.5,
+    "ci_high_a": 72.7
+  },
+  {
+    "school_a": "Stanford University",
+    "school_b": "University of Wisconsin - Madison",
+    "pct_a": 77.0,
+    "ci_low_a": 67.0,
+    "ci_high_a": 86.4
+  },
+  {
+    "school_a": "Stanford University",
+    "school_b": "University of California, Santa Barbara",
+    "pct_a": 89.0,
+    "ci_low_a": 83.3,
+    "ci_high_a": 94.1
+  },
+  {
+    "school_a": "Yale University",
+    "school_b": "University of Chicago",
+    "pct_a": 63.0,
+    "ci_low_a": 50.6,
+    "ci_high_a": 74.6
+  },
+  {
+    "school_a": "Yale University",
+    "school_b": "Duke University",
+    "pct_a": 74.0,
+    "ci_low_a": 66.0,
+    "ci_high_a": 82.4
+  },
+  {
+    "school_a": "Yale University",
+    "school_b": "Johns Hopkins University",
+    "pct_a": 84.0,
+    "ci_low_a": 75.5,
+    "ci_high_a": 92.1
+  },
+  {
+    "school_a": "Yale University",
+    "school_b": "Northwestern University",
+    "pct_a": 90.0,
+    "ci_low_a": 84.6,
+    "ci_high_a": 95.0
+  },
+  {
+    "school_a": "Yale University",
+    "school_b": "University of Pennsylvania",
+    "pct_a": 73.0,
+    "ci_low_a": 64.7,
+    "ci_high_a": 81.7
+  },
+  {
+    "school_a": "Yale University",
+    "school_b": "California Institute of Technology",
+    "pct_a": 67.0,
+    "ci_low_a": 52.0,
+    "ci_high_a": 82.0
+  },
+  {
+    "school_a": "Yale University",
+    "school_b": "Cornell University",
+    "pct_a": 84.0,
+    "ci_low_a": 77.2,
+    "ci_high_a": 91.8
+  },
+  {
+    "school_a": "Yale University",
+    "school_b": "Brown University",
+    "pct_a": 70.0,
+    "ci_low_a": 61.8,
+    "ci_high_a": 79.1
+  },
+  {
+    "school_a": "Yale University",
+    "school_b": "Dartmouth College",
+    "pct_a": 79.0,
+    "ci_low_a": 70.5,
+    "ci_high_a": 87.9
+  },
+  {
+    "school_a": "Yale University",
+    "school_b": "Columbia University in the City of New York",
+    "pct_a": 67.0,
+    "ci_low_a": 60.7,
+    "ci_high_a": 74.1
+  },
+  {
+    "school_a": "Yale University",
+    "school_b": "University of California, Berkeley",
+    "pct_a": 79.0,
+    "ci_low_a": 72.5,
+    "ci_high_a": 84.9
+  },
+  {
+    "school_a": "Yale University",
+    "school_b": "University of California, Los Angeles",
+    "pct_a": 78.0,
+    "ci_low_a": 71.2,
+    "ci_high_a": 84.1
+  },
+  {
+    "school_a": "Yale University",
+    "school_b": "Rice University",
+    "pct_a": 84.0,
+    "ci_low_a": 75.9,
+    "ci_high_a": 91.3
+  },
+  {
+    "school_a": "Yale University",
+    "school_b": "Vanderbilt University",
+    "pct_a": 82.0,
+    "ci_low_a": 73.2,
+    "ci_high_a": 91.3
+  },
+  {
+    "school_a": "Yale University",
+    "school_b": "Carnegie Mellon University",
+    "pct_a": 77.0,
+    "ci_low_a": 66.7,
+    "ci_high_a": 87.8
+  },
+  {
+    "school_a": "Yale University",
+    "school_b": "University of Michigan - Ann Arbor",
+    "pct_a": 75.0,
+    "ci_low_a": 69.1,
+    "ci_high_a": 81.0
+  },
+  {
+    "school_a": "Yale University",
+    "school_b": "University of Notre Dame",
+    "pct_a": 67.0,
+    "ci_low_a": 52.0,
+    "ci_high_a": 82.0
+  },
+  {
+    "school_a": "Yale University",
+    "school_b": "Washington University in St. Louis",
+    "pct_a": 73.0,
+    "ci_low_a": 60.6,
+    "ci_high_a": 85.5
+  },
+  {
+    "school_a": "Yale University",
+    "school_b": "Emory University",
+    "pct_a": 89.0,
+    "ci_low_a": 82.8,
+    "ci_high_a": 94.4
+  },
+  {
+    "school_a": "Yale University",
+    "school_b": "Georgetown University",
+    "pct_a": 84.0,
+    "ci_low_a": 75.5,
+    "ci_high_a": 92.1
+  },
+  {
+    "school_a": "Yale University",
+    "school_b": "University of North Carolina at Chapel Hill",
+    "pct_a": 84.0,
+    "ci_low_a": 75.5,
+    "ci_high_a": 92.1
+  },
+  {
+    "school_a": "Yale University",
+    "school_b": "University of Virginia",
+    "pct_a": 69.0,
+    "ci_low_a": 57.6,
+    "ci_high_a": 80.2
+  },
+  {
+    "school_a": "Yale University",
+    "school_b": "University of Southern California",
+    "pct_a": 82.0,
+    "ci_low_a": 74.5,
+    "ci_high_a": 89.6
+  },
+  {
+    "school_a": "Yale University",
+    "school_b": "University of California, San Diego",
+    "pct_a": 85.0,
+    "ci_low_a": 78.4,
+    "ci_high_a": 91.3
+  },
+  {
+    "school_a": "Yale University",
+    "school_b": "University of Florida",
+    "pct_a": 63.0,
+    "ci_low_a": 46.1,
+    "ci_high_a": 79.4
+  },
+  {
+    "school_a": "Yale University",
+    "school_b": "University of Texas at Austin",
+    "pct_a": 67.0,
+    "ci_low_a": 55.9,
+    "ci_high_a": 77.8
+  },
+  {
+    "school_a": "Yale University",
+    "school_b": "Georgia Institute of Technology",
+    "pct_a": 56.0,
+    "ci_low_a": 43.9,
+    "ci_high_a": 68.7
+  },
+  {
+    "school_a": "Yale University",
+    "school_b": "New York University",
+    "pct_a": 75.0,
+    "ci_low_a": 63.9,
+    "ci_high_a": 86.8
+  },
+  {
+    "school_a": "Yale University",
+    "school_b": "University of California, Davis",
+    "pct_a": 79.0,
+    "ci_low_a": 69.0,
+    "ci_high_a": 88.8
+  },
+  {
+    "school_a": "Yale University",
+    "school_b": "University of California, Irvine",
+    "pct_a": 87.0,
+    "ci_low_a": 80.3,
+    "ci_high_a": 92.9
+  },
+  {
+    "school_a": "Yale University",
+    "school_b": "Boston College",
+    "pct_a": 50.0,
+    "ci_low_a": 29.3,
+    "ci_high_a": 70.7
+  },
+  {
+    "school_a": "Yale University",
+    "school_b": "Tufts University",
+    "pct_a": 78.0,
+    "ci_low_a": 67.2,
+    "ci_high_a": 89.4
+  },
+  {
+    "school_a": "Yale University",
+    "school_b": "University of Illinois at Urbana-Champaign",
+    "pct_a": 67.0,
+    "ci_low_a": 53.6,
+    "ci_high_a": 80.1
+  },
+  {
+    "school_a": "Yale University",
+    "school_b": "University of Wisconsin - Madison",
+    "pct_a": 75.0,
+    "ci_low_a": 63.9,
+    "ci_high_a": 86.8
+  },
+  {
+    "school_a": "Yale University",
+    "school_b": "University of California, Santa Barbara",
+    "pct_a": 90.0,
+    "ci_low_a": 84.6,
+    "ci_high_a": 95.0
+  },
+  {
+    "school_a": "University of Chicago",
+    "school_b": "Duke University",
+    "pct_a": 54.0,
+    "ci_low_a": 40.0,
+    "ci_high_a": 67.8
+  },
+  {
+    "school_a": "University of Chicago",
+    "school_b": "Johns Hopkins University",
+    "pct_a": 50.0,
+    "ci_low_a": 34.1,
+    "ci_high_a": 65.9
+  },
+  {
+    "school_a": "University of Chicago",
+    "school_b": "Northwestern University",
+    "pct_a": 62.0,
+    "ci_low_a": 51.4,
+    "ci_high_a": 72.6
+  },
+  {
+    "school_a": "University of Chicago",
+    "school_b": "University of Pennsylvania",
+    "pct_a": 40.0,
+    "ci_low_a": 24.5,
+    "ci_high_a": 55.2
+  },
+  {
+    "school_a": "University of Chicago",
+    "school_b": "California Institute of Technology",
+    "pct_a": 33.0,
+    "ci_low_a": 16.1,
+    "ci_high_a": 49.7
+  },
+  {
+    "school_a": "University of Chicago",
+    "school_b": "Cornell University",
+    "pct_a": 64.0,
+    "ci_low_a": 49.6,
+    "ci_high_a": 78.1
+  },
+  {
+    "school_a": "University of Chicago",
+    "school_b": "Brown University",
+    "pct_a": 76.0,
+    "ci_low_a": 63.0,
+    "ci_high_a": 88.0
+  },
+  {
+    "school_a": "University of Chicago",
+    "school_b": "Dartmouth College",
+    "pct_a": 57.0,
+    "ci_low_a": 38.7,
+    "ci_high_a": 76.0
+  },
+  {
+    "school_a": "University of Chicago",
+    "school_b": "Columbia University in the City of New York",
+    "pct_a": 28.0,
+    "ci_low_a": 19.1,
+    "ci_high_a": 36.7
+  },
+  {
+    "school_a": "University of Chicago",
+    "school_b": "University of California, Berkeley",
+    "pct_a": 87.0,
+    "ci_low_a": 80.5,
+    "ci_high_a": 93.7
+  },
+  {
+    "school_a": "University of Chicago",
+    "school_b": "University of California, Los Angeles",
+    "pct_a": 67.0,
+    "ci_low_a": 55.9,
+    "ci_high_a": 77.8
+  },
+  {
+    "school_a": "University of Chicago",
+    "school_b": "Rice University",
+    "pct_a": 76.0,
+    "ci_low_a": 63.0,
+    "ci_high_a": 88.0
+  },
+  {
+    "school_a": "University of Chicago",
+    "school_b": "Vanderbilt University",
+    "pct_a": 67.0,
+    "ci_low_a": 50.3,
+    "ci_high_a": 83.9
+  },
+  {
+    "school_a": "University of Chicago",
+    "school_b": "Carnegie Mellon University",
+    "pct_a": 72.0,
+    "ci_low_a": 57.6,
+    "ci_high_a": 86.2
+  },
+  {
+    "school_a": "University of Chicago",
+    "school_b": "University of Michigan - Ann Arbor",
+    "pct_a": 61.0,
+    "ci_low_a": 53.1,
+    "ci_high_a": 68.0
+  },
+  {
+    "school_a": "University of Chicago",
+    "school_b": "University of Notre Dame",
+    "pct_a": 33.0,
+    "ci_low_a": 18.0,
+    "ci_high_a": 48.0
+  },
+  {
+    "school_a": "University of Chicago",
+    "school_b": "Washington University in St. Louis",
+    "pct_a": 73.0,
+    "ci_low_a": 60.6,
+    "ci_high_a": 85.5
+  },
+  {
+    "school_a": "University of Chicago",
+    "school_b": "Emory University",
+    "pct_a": 72.0,
+    "ci_low_a": 57.6,
+    "ci_high_a": 86.2
+  },
+  {
+    "school_a": "University of Chicago",
+    "school_b": "Georgetown University",
+    "pct_a": 75.0,
+    "ci_low_a": 63.9,
+    "ci_high_a": 86.8
+  },
+  {
+    "school_a": "University of Chicago",
+    "school_b": "University of North Carolina at Chapel Hill",
+    "pct_a": 63.0,
+    "ci_low_a": 46.1,
+    "ci_high_a": 79.4
+  },
+  {
+    "school_a": "University of Chicago",
+    "school_b": "University of Virginia",
+    "pct_a": 46.0,
+    "ci_low_a": 32.2,
+    "ci_high_a": 60.0
+  },
+  {
+    "school_a": "University of Chicago",
+    "school_b": "University of Southern California",
+    "pct_a": 75.0,
+    "ci_low_a": 65.0,
+    "ci_high_a": 85.5
+  },
+  {
+    "school_a": "University of Chicago",
+    "school_b": "University of California, San Diego",
+    "pct_a": 86.0,
+    "ci_low_a": 79.0,
+    "ci_high_a": 93.2
+  },
+  {
+    "school_a": "University of Chicago",
+    "school_b": "University of Florida",
+    "pct_a": 57.0,
+    "ci_low_a": 38.7,
+    "ci_high_a": 76.0
+  },
+  {
+    "school_a": "University of Chicago",
+    "school_b": "University of Texas at Austin",
+    "pct_a": 70.0,
+    "ci_low_a": 56.7,
+    "ci_high_a": 83.9
+  },
+  {
+    "school_a": "University of Chicago",
+    "school_b": "Georgia Institute of Technology",
+    "pct_a": 60.0,
+    "ci_low_a": 44.8,
+    "ci_high_a": 75.5
+  },
+  {
+    "school_a": "University of Chicago",
+    "school_b": "New York University",
+    "pct_a": 67.0,
+    "ci_low_a": 52.0,
+    "ci_high_a": 82.0
+  },
+  {
+    "school_a": "University of Chicago",
+    "school_b": "University of California, Davis",
+    "pct_a": 80.0,
+    "ci_low_a": 70.5,
+    "ci_high_a": 90.4
+  },
+  {
+    "school_a": "University of Chicago",
+    "school_b": "University of California, Irvine",
+    "pct_a": 70.0,
+    "ci_low_a": 56.7,
+    "ci_high_a": 83.9
+  },
+  {
+    "school_a": "University of Chicago",
+    "school_b": "Boston College",
+    "pct_a": 60.0,
+    "ci_low_a": 40.1,
+    "ci_high_a": 80.6
+  },
+  {
+    "school_a": "University of Chicago",
+    "school_b": "Tufts University",
+    "pct_a": 67.0,
+    "ci_low_a": 50.3,
+    "ci_high_a": 83.9
+  },
+  {
+    "school_a": "University of Chicago",
+    "school_b": "University of Illinois at Urbana-Champaign",
+    "pct_a": 44.0,
+    "ci_low_a": 35.6,
+    "ci_high_a": 52.6
+  },
+  {
+    "school_a": "University of Chicago",
+    "school_b": "University of Wisconsin - Madison",
+    "pct_a": 50.0,
+    "ci_low_a": 38.2,
+    "ci_high_a": 61.8
+  },
+  {
+    "school_a": "University of Chicago",
+    "school_b": "University of California, Santa Barbara",
+    "pct_a": 75.0,
+    "ci_low_a": 63.9,
+    "ci_high_a": 86.8
+  },
+  {
+    "school_a": "Duke University",
+    "school_b": "Johns Hopkins University",
+    "pct_a": 60.0,
+    "ci_low_a": 44.8,
+    "ci_high_a": 75.5
+  },
+  {
+    "school_a": "Duke University",
+    "school_b": "Northwestern University",
+    "pct_a": 75.0,
+    "ci_low_a": 63.9,
+    "ci_high_a": 86.8
+  },
+  {
+    "school_a": "Duke University",
+    "school_b": "University of Pennsylvania",
+    "pct_a": 47.0,
+    "ci_low_a": 33.7,
+    "ci_high_a": 59.6
+  },
+  {
+    "school_a": "Duke University",
+    "school_b": "California Institute of Technology",
+    "pct_a": 33.0,
+    "ci_low_a": 16.1,
+    "ci_high_a": 49.7
+  },
+  {
+    "school_a": "Duke University",
+    "school_b": "Cornell University",
+    "pct_a": 84.0,
+    "ci_low_a": 75.9,
+    "ci_high_a": 91.3
+  },
+  {
+    "school_a": "Duke University",
+    "school_b": "Brown University",
+    "pct_a": 28.0,
+    "ci_low_a": 17.4,
+    "ci_high_a": 37.8
+  },
+  {
+    "school_a": "Duke University",
+    "school_b": "Dartmouth College",
+    "pct_a": 53.0,
+    "ci_low_a": 40.8,
+    "ci_high_a": 65.1
+  },
+  {
+    "school_a": "Duke University",
+    "school_b": "Columbia University in the City of New York",
+    "pct_a": 33.0,
+    "ci_low_a": 23.7,
+    "ci_high_a": 42.8
+  },
+  {
+    "school_a": "Duke University",
+    "school_b": "University of California, Berkeley",
+    "pct_a": 40.0,
+    "ci_low_a": 29.0,
+    "ci_high_a": 50.9
+  },
+  {
+    "school_a": "Duke University",
+    "school_b": "University of California, Los Angeles",
+    "pct_a": 40.0,
+    "ci_low_a": 27.3,
+    "ci_high_a": 52.5
+  },
+  {
+    "school_a": "Duke University",
+    "school_b": "Rice University",
+    "pct_a": 67.0,
+    "ci_low_a": 53.6,
+    "ci_high_a": 80.1
+  },
+  {
+    "school_a": "Duke University",
+    "school_b": "Vanderbilt University",
+    "pct_a": 60.0,
+    "ci_low_a": 47.5,
+    "ci_high_a": 72.7
+  },
+  {
+    "school_a": "Duke University",
+    "school_b": "Carnegie Mellon University",
+    "pct_a": 76.0,
+    "ci_low_a": 63.0,
+    "ci_high_a": 88.0
+  },
+  {
+    "school_a": "Duke University",
+    "school_b": "University of Michigan - Ann Arbor",
+    "pct_a": 69.0,
+    "ci_low_a": 60.4,
+    "ci_high_a": 78.3
+  },
+  {
+    "school_a": "Duke University",
+    "school_b": "University of Notre Dame",
+    "pct_a": 80.0,
+    "ci_low_a": 70.5,
+    "ci_high_a": 90.4
+  },
+  {
+    "school_a": "Duke University",
+    "school_b": "Washington University in St. Louis",
+    "pct_a": 55.0,
+    "ci_low_a": 39.5,
+    "ci_high_a": 69.7
+  },
+  {
+    "school_a": "Duke University",
+    "school_b": "Emory University",
+    "pct_a": 58.0,
+    "ci_low_a": 44.2,
+    "ci_high_a": 72.7
+  },
+  {
+    "school_a": "Duke University",
+    "school_b": "Georgetown University",
+    "pct_a": 76.0,
+    "ci_low_a": 63.0,
+    "ci_high_a": 88.0
+  },
+  {
+    "school_a": "Duke University",
+    "school_b": "University of North Carolina at Chapel Hill",
+    "pct_a": 64.0,
+    "ci_low_a": 54.5,
+    "ci_high_a": 73.6
+  },
+  {
+    "school_a": "Duke University",
+    "school_b": "University of Virginia",
+    "pct_a": 69.0,
+    "ci_low_a": 60.6,
+    "ci_high_a": 77.6
+  },
+  {
+    "school_a": "Duke University",
+    "school_b": "University of Southern California",
+    "pct_a": 58.0,
+    "ci_low_a": 44.2,
+    "ci_high_a": 72.7
+  },
+  {
+    "school_a": "Duke University",
+    "school_b": "University of California, San Diego",
+    "pct_a": 45.0,
+    "ci_low_a": 30.3,
+    "ci_high_a": 60.5
+  },
+  {
+    "school_a": "Duke University",
+    "school_b": "University of Florida",
+    "pct_a": 62.0,
+    "ci_low_a": 48.3,
+    "ci_high_a": 75.1
+  },
+  {
+    "school_a": "Duke University",
+    "school_b": "University of Texas at Austin",
+    "pct_a": 77.0,
+    "ci_low_a": 66.7,
+    "ci_high_a": 87.8
+  },
+  {
+    "school_a": "Duke University",
+    "school_b": "Georgia Institute of Technology",
+    "pct_a": 79.0,
+    "ci_low_a": 71.5,
+    "ci_high_a": 87.2
+  },
+  {
+    "school_a": "Duke University",
+    "school_b": "New York University",
+    "pct_a": 78.0,
+    "ci_low_a": 67.2,
+    "ci_high_a": 89.4
+  },
+  {
+    "school_a": "Duke University",
+    "school_b": "University of California, Davis",
+    "pct_a": 67.0,
+    "ci_low_a": 50.3,
+    "ci_high_a": 83.9
+  },
+  {
+    "school_a": "Duke University",
+    "school_b": "University of California, Irvine",
+    "pct_a": 43.0,
+    "ci_low_a": 24.0,
+    "ci_high_a": 61.3
+  },
+  {
+    "school_a": "Duke University",
+    "school_b": "Boston College",
+    "pct_a": 67.0,
+    "ci_low_a": 50.3,
+    "ci_high_a": 83.9
+  },
+  {
+    "school_a": "Duke University",
+    "school_b": "Tufts University",
+    "pct_a": 60.0,
+    "ci_low_a": 40.1,
+    "ci_high_a": 80.6
+  },
+  {
+    "school_a": "Duke University",
+    "school_b": "University of Illinois at Urbana-Champaign",
+    "pct_a": 53.0,
+    "ci_low_a": 40.4,
+    "ci_high_a": 66.3
+  },
+  {
+    "school_a": "Duke University",
+    "school_b": "University of Wisconsin - Madison",
+    "pct_a": 56.0,
+    "ci_low_a": 39.0,
+    "ci_high_a": 72.3
+  },
+  {
+    "school_a": "Duke University",
+    "school_b": "University of California, Santa Barbara",
+    "pct_a": 60.0,
+    "ci_low_a": 40.1,
+    "ci_high_a": 80.6
+  },
+  {
+    "school_a": "Johns Hopkins University",
+    "school_b": "Northwestern University",
+    "pct_a": 67.0,
+    "ci_low_a": 52.0,
+    "ci_high_a": 82.0
+  },
+  {
+    "school_a": "Johns Hopkins University",
+    "school_b": "University of Pennsylvania",
+    "pct_a": 40.0,
+    "ci_low_a": 24.5,
+    "ci_high_a": 55.2
+  },
+  {
+    "school_a": "Johns Hopkins University",
+    "school_b": "California Institute of Technology",
+    "pct_a": 33.0,
+    "ci_low_a": 16.1,
+    "ci_high_a": 49.7
+  },
+  {
+    "school_a": "Johns Hopkins University",
+    "school_b": "Cornell University",
+    "pct_a": 72.0,
+    "ci_low_a": 60.1,
+    "ci_high_a": 83.2
+  },
+  {
+    "school_a": "Johns Hopkins University",
+    "school_b": "Brown University",
+    "pct_a": 18.0,
+    "ci_low_a": 8.7,
+    "ci_high_a": 26.8
+  },
+  {
+    "school_a": "Johns Hopkins University",
+    "school_b": "Dartmouth College",
+    "pct_a": 28.0,
+    "ci_low_a": 13.8,
+    "ci_high_a": 42.4
+  },
+  {
+    "school_a": "Johns Hopkins University",
+    "school_b": "Columbia University in the City of New York",
+    "pct_a": 20.0,
+    "ci_low_a": 10.5,
+    "ci_high_a": 28.9
+  },
+  {
+    "school_a": "Johns Hopkins University",
+    "school_b": "University of California, Berkeley",
+    "pct_a": 55.0,
+    "ci_low_a": 43.9,
+    "ci_high_a": 65.2
+  },
+  {
+    "school_a": "Johns Hopkins University",
+    "school_b": "University of California, Los Angeles",
+    "pct_a": 50.0,
+    "ci_low_a": 41.6,
+    "ci_high_a": 58.4
+  },
+  {
+    "school_a": "Johns Hopkins University",
+    "school_b": "Rice University",
+    "pct_a": 50.0,
+    "ci_low_a": 36.6,
+    "ci_high_a": 63.4
+  },
+  {
+    "school_a": "Johns Hopkins University",
+    "school_b": "Vanderbilt University",
+    "pct_a": 64.0,
+    "ci_low_a": 51.8,
+    "ci_high_a": 77.1
+  },
+  {
+    "school_a": "Johns Hopkins University",
+    "school_b": "Carnegie Mellon University",
+    "pct_a": 67.0,
+    "ci_low_a": 52.0,
+    "ci_high_a": 82.0
+  },
+  {
+    "school_a": "Johns Hopkins University",
+    "school_b": "University of Michigan - Ann Arbor",
+    "pct_a": 69.0,
+    "ci_low_a": 60.4,
+    "ci_high_a": 78.3
+  },
+  {
+    "school_a": "Johns Hopkins University",
+    "school_b": "University of Notre Dame",
+    "pct_a": 50.0,
+    "ci_low_a": 29.3,
+    "ci_high_a": 70.7
+  },
+  {
+    "school_a": "Johns Hopkins University",
+    "school_b": "Washington University in St. Louis",
+    "pct_a": 50.0,
+    "ci_low_a": 34.1,
+    "ci_high_a": 65.9
+  },
+  {
+    "school_a": "Johns Hopkins University",
+    "school_b": "Emory University",
+    "pct_a": 78.0,
+    "ci_low_a": 67.2,
+    "ci_high_a": 89.4
+  },
+  {
+    "school_a": "Johns Hopkins University",
+    "school_b": "Georgetown University",
+    "pct_a": 50.0,
+    "ci_low_a": 32.1,
+    "ci_high_a": 67.9
+  },
+  {
+    "school_a": "Johns Hopkins University",
+    "school_b": "University of North Carolina at Chapel Hill",
+    "pct_a": 70.0,
+    "ci_low_a": 56.7,
+    "ci_high_a": 83.9
+  },
+  {
+    "school_a": "Johns Hopkins University",
+    "school_b": "University of Virginia",
+    "pct_a": 76.0,
+    "ci_low_a": 67.5,
+    "ci_high_a": 85.3
+  },
+  {
+    "school_a": "Johns Hopkins University",
+    "school_b": "University of Southern California",
+    "pct_a": 63.0,
+    "ci_low_a": 50.6,
+    "ci_high_a": 74.6
+  },
+  {
+    "school_a": "Johns Hopkins University",
+    "school_b": "University of California, San Diego",
+    "pct_a": 76.0,
+    "ci_low_a": 67.5,
+    "ci_high_a": 85.3
+  },
+  {
+    "school_a": "Johns Hopkins University",
+    "school_b": "University of Florida",
+    "pct_a": 67.0,
+    "ci_low_a": 53.6,
+    "ci_high_a": 80.1
+  },
+  {
+    "school_a": "Johns Hopkins University",
+    "school_b": "University of Texas at Austin",
+    "pct_a": 47.0,
+    "ci_low_a": 35.8,
+    "ci_high_a": 58.8
+  },
+  {
+    "school_a": "Johns Hopkins University",
+    "school_b": "Georgia Institute of Technology",
+    "pct_a": 60.0,
+    "ci_low_a": 49.1,
+    "ci_high_a": 71.0
+  },
+  {
+    "school_a": "Johns Hopkins University",
+    "school_b": "New York University",
+    "pct_a": 62.0,
+    "ci_low_a": 48.3,
+    "ci_high_a": 75.1
+  },
+  {
+    "school_a": "Johns Hopkins University",
+    "school_b": "University of California, Davis",
+    "pct_a": 67.0,
+    "ci_low_a": 52.0,
+    "ci_high_a": 82.0
+  },
+  {
+    "school_a": "Johns Hopkins University",
+    "school_b": "University of California, Irvine",
+    "pct_a": 78.0,
+    "ci_low_a": 68.9,
+    "ci_high_a": 87.2
+  },
+  {
+    "school_a": "Johns Hopkins University",
+    "school_b": "Boston College",
+    "pct_a": null,
+    "ci_low_a": null,
+    "ci_high_a": null
+  },
+  {
+    "school_a": "Johns Hopkins University",
+    "school_b": "Tufts University",
+    "pct_a": null,
+    "ci_low_a": null,
+    "ci_high_a": null
+  },
+  {
+    "school_a": "Johns Hopkins University",
+    "school_b": "University of Illinois at Urbana-Champaign",
+    "pct_a": 67.0,
+    "ci_low_a": 52.0,
+    "ci_high_a": 82.0
+  },
+  {
+    "school_a": "Johns Hopkins University",
+    "school_b": "University of Wisconsin - Madison",
+    "pct_a": 78.0,
+    "ci_low_a": 67.2,
+    "ci_high_a": 89.4
+  },
+  {
+    "school_a": "Johns Hopkins University",
+    "school_b": "University of California, Santa Barbara",
+    "pct_a": 82.0,
+    "ci_low_a": 73.2,
+    "ci_high_a": 91.3
+  },
+  {
+    "school_a": "Northwestern University",
+    "school_b": "University of Pennsylvania",
+    "pct_a": 30.0,
+    "ci_low_a": 16.1,
+    "ci_high_a": 43.3
+  },
+  {
+    "school_a": "Northwestern University",
+    "school_b": "California Institute of Technology",
+    "pct_a": null,
+    "ci_low_a": null,
+    "ci_high_a": null
+  },
+  {
+    "school_a": "Northwestern University",
+    "school_b": "Cornell University",
+    "pct_a": 50.0,
+    "ci_low_a": 34.1,
+    "ci_high_a": 65.9
+  },
+  {
+    "school_a": "Northwestern University",
+    "school_b": "Brown University",
+    "pct_a": 36.0,
+    "ci_low_a": 21.9,
+    "ci_high_a": 50.4
+  },
+  {
+    "school_a": "Northwestern University",
+    "school_b": "Dartmouth College",
+    "pct_a": 50.0,
+    "ci_low_a": 32.1,
+    "ci_high_a": 67.9
+  },
+  {
+    "school_a": "Northwestern University",
+    "school_b": "Columbia University in the City of New York",
+    "pct_a": 20.0,
+    "ci_low_a": 11.5,
+    "ci_high_a": 28.1
+  },
+  {
+    "school_a": "Northwestern University",
+    "school_b": "University of California, Berkeley",
+    "pct_a": 56.0,
+    "ci_low_a": 43.9,
+    "ci_high_a": 67.3
+  },
+  {
+    "school_a": "Northwestern University",
+    "school_b": "University of California, Los Angeles",
+    "pct_a": 73.0,
+    "ci_low_a": 64.4,
+    "ci_high_a": 80.7
+  },
+  {
+    "school_a": "Northwestern University",
+    "school_b": "Rice University",
+    "pct_a": 33.0,
+    "ci_low_a": 18.0,
+    "ci_high_a": 48.0
+  },
+  {
+    "school_a": "Northwestern University",
+    "school_b": "Vanderbilt University",
+    "pct_a": 47.0,
+    "ci_low_a": 33.7,
+    "ci_high_a": 59.6
+  },
+  {
+    "school_a": "Northwestern University",
+    "school_b": "Carnegie Mellon University",
+    "pct_a": 75.0,
+    "ci_low_a": 63.9,
+    "ci_high_a": 86.8
+  },
+  {
+    "school_a": "Northwestern University",
+    "school_b": "University of Michigan - Ann Arbor",
+    "pct_a": 52.0,
+    "ci_low_a": 47.5,
+    "ci_high_a": 57.5
+  },
+  {
+    "school_a": "Northwestern University",
+    "school_b": "University of Notre Dame",
+    "pct_a": 33.0,
+    "ci_low_a": 22.2,
+    "ci_high_a": 44.1
+  },
+  {
+    "school_a": "Northwestern University",
+    "school_b": "Washington University in St. Louis",
+    "pct_a": 58.0,
+    "ci_low_a": 46.6,
+    "ci_high_a": 69.3
+  },
+  {
+    "school_a": "Northwestern University",
+    "school_b": "Emory University",
+    "pct_a": 77.0,
+    "ci_low_a": 66.7,
+    "ci_high_a": 87.8
+  },
+  {
+    "school_a": "Northwestern University",
+    "school_b": "Georgetown University",
+    "pct_a": 67.0,
+    "ci_low_a": 53.6,
+    "ci_high_a": 80.1
+  },
+  {
+    "school_a": "Northwestern University",
+    "school_b": "University of North Carolina at Chapel Hill",
+    "pct_a": 77.0,
+    "ci_low_a": 66.7,
+    "ci_high_a": 87.8
+  },
+  {
+    "school_a": "Northwestern University",
+    "school_b": "University of Virginia",
+    "pct_a": 73.0,
+    "ci_low_a": 60.6,
+    "ci_high_a": 85.5
+  },
+  {
+    "school_a": "Northwestern University",
+    "school_b": "University of Southern California",
+    "pct_a": 70.0,
+    "ci_low_a": 60.3,
+    "ci_high_a": 79.1
+  },
+  {
+    "school_a": "Northwestern University",
+    "school_b": "University of California, San Diego",
+    "pct_a": 85.0,
+    "ci_low_a": 77.4,
+    "ci_high_a": 92.7
+  },
+  {
+    "school_a": "Northwestern University",
+    "school_b": "University of Florida",
+    "pct_a": 64.0,
+    "ci_low_a": 49.6,
+    "ci_high_a": 78.1
+  },
+  {
+    "school_a": "Northwestern University",
+    "school_b": "University of Texas at Austin",
+    "pct_a": 50.0,
+    "ci_low_a": 35.5,
+    "ci_high_a": 64.5
+  },
+  {
+    "school_a": "Northwestern University",
+    "school_b": "Georgia Institute of Technology",
+    "pct_a": 75.0,
+    "ci_low_a": 65.0,
+    "ci_high_a": 85.5
+  },
+  {
+    "school_a": "Northwestern University",
+    "school_b": "New York University",
+    "pct_a": 78.0,
+    "ci_low_a": 68.9,
+    "ci_high_a": 87.2
+  },
+  {
+    "school_a": "Northwestern University",
+    "school_b": "University of California, Davis",
+    "pct_a": 73.0,
+    "ci_low_a": 60.6,
+    "ci_high_a": 85.5
+  },
+  {
+    "school_a": "Northwestern University",
+    "school_b": "University of California, Irvine",
+    "pct_a": 84.0,
+    "ci_low_a": 75.5,
+    "ci_high_a": 92.1
+  },
+  {
+    "school_a": "Northwestern University",
+    "school_b": "Boston College",
+    "pct_a": 63.0,
+    "ci_low_a": 46.1,
+    "ci_high_a": 79.4
+  },
+  {
+    "school_a": "Northwestern University",
+    "school_b": "Tufts University",
+    "pct_a": 50.0,
+    "ci_low_a": 32.1,
+    "ci_high_a": 67.9
+  },
+  {
+    "school_a": "Northwestern University",
+    "school_b": "University of Illinois at Urbana-Champaign",
+    "pct_a": 54.0,
+    "ci_low_a": 47.6,
+    "ci_high_a": 59.6
+  },
+  {
+    "school_a": "Northwestern University",
+    "school_b": "University of Wisconsin - Madison",
+    "pct_a": 78.0,
+    "ci_low_a": 71.2,
+    "ci_high_a": 84.6
+  },
+  {
+    "school_a": "Northwestern University",
+    "school_b": "University of California, Santa Barbara",
+    "pct_a": 82.0,
+    "ci_low_a": 73.2,
+    "ci_high_a": 91.3
+  },
+  {
+    "school_a": "University of Pennsylvania",
+    "school_b": "California Institute of Technology",
+    "pct_a": 57.0,
+    "ci_low_a": 38.7,
+    "ci_high_a": 76.0
+  },
+  {
+    "school_a": "University of Pennsylvania",
+    "school_b": "Cornell University",
+    "pct_a": 58.0,
+    "ci_low_a": 46.6,
+    "ci_high_a": 69.3
+  },
+  {
+    "school_a": "University of Pennsylvania",
+    "school_b": "Brown University",
+    "pct_a": 53.0,
+    "ci_low_a": 40.4,
+    "ci_high_a": 66.3
+  },
+  {
+    "school_a": "University of Pennsylvania",
+    "school_b": "Dartmouth College",
+    "pct_a": 50.0,
+    "ci_low_a": 34.1,
+    "ci_high_a": 65.9
+  },
+  {
+    "school_a": "University of Pennsylvania",
+    "school_b": "Columbia University in the City of New York",
+    "pct_a": 41.0,
+    "ci_low_a": 31.2,
+    "ci_high_a": 50.1
+  },
+  {
+    "school_a": "University of Pennsylvania",
+    "school_b": "University of California, Berkeley",
+    "pct_a": 43.0,
+    "ci_low_a": 33.1,
+    "ci_high_a": 53.8
+  },
+  {
+    "school_a": "University of Pennsylvania",
+    "school_b": "University of California, Los Angeles",
+    "pct_a": 54.0,
+    "ci_low_a": 44.0,
+    "ci_high_a": 64.4
+  },
+  {
+    "school_a": "University of Pennsylvania",
+    "school_b": "Rice University",
+    "pct_a": 67.0,
+    "ci_low_a": 52.0,
+    "ci_high_a": 82.0
+  },
+  {
+    "school_a": "University of Pennsylvania",
+    "school_b": "Vanderbilt University",
+    "pct_a": 67.0,
+    "ci_low_a": 53.6,
+    "ci_high_a": 80.1
+  },
+  {
+    "school_a": "University of Pennsylvania",
+    "school_b": "Carnegie Mellon University",
+    "pct_a": 70.0,
+    "ci_low_a": 56.7,
+    "ci_high_a": 83.9
+  },
+  {
+    "school_a": "University of Pennsylvania",
+    "school_b": "University of Michigan - Ann Arbor",
+    "pct_a": 57.0,
+    "ci_low_a": 48.6,
+    "ci_high_a": 64.9
+  },
+  {
+    "school_a": "University of Pennsylvania",
+    "school_b": "University of Notre Dame",
+    "pct_a": 45.0,
+    "ci_low_a": 30.3,
+    "ci_high_a": 60.5
+  },
+  {
+    "school_a": "University of Pennsylvania",
+    "school_b": "Washington University in St. Louis",
+    "pct_a": 50.0,
+    "ci_low_a": 32.1,
+    "ci_high_a": 67.9
+  },
+  {
+    "school_a": "University of Pennsylvania",
+    "school_b": "Emory University",
+    "pct_a": 76.0,
+    "ci_low_a": 63.0,
+    "ci_high_a": 88.0
+  },
+  {
+    "school_a": "University of Pennsylvania",
+    "school_b": "Georgetown University",
+    "pct_a": 67.0,
+    "ci_low_a": 54.9,
+    "ci_high_a": 78.8
+  },
+  {
+    "school_a": "University of Pennsylvania",
+    "school_b": "University of North Carolina at Chapel Hill",
+    "pct_a": 73.0,
+    "ci_low_a": 60.6,
+    "ci_high_a": 85.5
+  },
+  {
+    "school_a": "University of Pennsylvania",
+    "school_b": "University of Virginia",
+    "pct_a": 65.0,
+    "ci_low_a": 56.2,
+    "ci_high_a": 74.7
+  },
+  {
+    "school_a": "University of Pennsylvania",
+    "school_b": "University of Southern California",
+    "pct_a": 50.0,
+    "ci_low_a": 37.4,
+    "ci_high_a": 62.6
+  },
+  {
+    "school_a": "University of Pennsylvania",
+    "school_b": "University of California, San Diego",
+    "pct_a": 73.0,
+    "ci_low_a": 60.6,
+    "ci_high_a": 85.5
+  },
+  {
+    "school_a": "University of Pennsylvania",
+    "school_b": "University of Florida",
+    "pct_a": 67.0,
+    "ci_low_a": 52.0,
+    "ci_high_a": 82.0
+  },
+  {
+    "school_a": "University of Pennsylvania",
+    "school_b": "University of Texas at Austin",
+    "pct_a": 53.0,
+    "ci_low_a": 40.8,
+    "ci_high_a": 65.1
+  },
+  {
+    "school_a": "University of Pennsylvania",
+    "school_b": "Georgia Institute of Technology",
+    "pct_a": 76.0,
+    "ci_low_a": 67.5,
+    "ci_high_a": 85.3
+  },
+  {
+    "school_a": "University of Pennsylvania",
+    "school_b": "New York University",
+    "pct_a": 75.0,
+    "ci_low_a": 63.9,
+    "ci_high_a": 86.8
+  },
+  {
+    "school_a": "University of Pennsylvania",
+    "school_b": "University of California, Davis",
+    "pct_a": 50.0,
+    "ci_low_a": 29.3,
+    "ci_high_a": 70.7
+  },
+  {
+    "school_a": "University of Pennsylvania",
+    "school_b": "University of California, Irvine",
+    "pct_a": 62.0,
+    "ci_low_a": 48.3,
+    "ci_high_a": 75.1
+  },
+  {
+    "school_a": "University of Pennsylvania",
+    "school_b": "Boston College",
+    "pct_a": 67.0,
+    "ci_low_a": 50.3,
+    "ci_high_a": 83.9
+  },
+  {
+    "school_a": "University of Pennsylvania",
+    "school_b": "Tufts University",
+    "pct_a": 60.0,
+    "ci_low_a": 40.1,
+    "ci_high_a": 80.6
+  },
+  {
+    "school_a": "University of Pennsylvania",
+    "school_b": "University of Illinois at Urbana-Champaign",
+    "pct_a": 60.0,
+    "ci_low_a": 44.8,
+    "ci_high_a": 75.5
+  },
+  {
+    "school_a": "University of Pennsylvania",
+    "school_b": "University of Wisconsin - Madison",
+    "pct_a": 36.0,
+    "ci_low_a": 22.9,
+    "ci_high_a": 48.2
+  },
+  {
+    "school_a": "University of Pennsylvania",
+    "school_b": "University of California, Santa Barbara",
+    "pct_a": 67.0,
+    "ci_low_a": 50.3,
+    "ci_high_a": 83.9
+  },
+  {
+    "school_a": "California Institute of Technology",
+    "school_b": "Cornell University",
+    "pct_a": 67.0,
+    "ci_low_a": 50.3,
+    "ci_high_a": 83.9
+  },
+  {
+    "school_a": "California Institute of Technology",
+    "school_b": "Brown University",
+    "pct_a": null,
+    "ci_low_a": null,
+    "ci_high_a": null
+  },
+  {
+    "school_a": "California Institute of Technology",
+    "school_b": "Dartmouth College",
+    "pct_a": 40.0,
+    "ci_low_a": 19.4,
+    "ci_high_a": 59.9
+  },
+  {
+    "school_a": "California Institute of Technology",
+    "school_b": "Columbia University in the City of New York",
+    "pct_a": 24.0,
+    "ci_low_a": 14.7,
+    "ci_high_a": 32.5
+  },
+  {
+    "school_a": "California Institute of Technology",
+    "school_b": "University of California, Berkeley",
+    "pct_a": 59.0,
+    "ci_low_a": 48.7,
+    "ci_high_a": 69.6
+  },
+  {
+    "school_a": "California Institute of Technology",
+    "school_b": "University of California, Los Angeles",
+    "pct_a": 75.0,
+    "ci_low_a": 63.9,
+    "ci_high_a": 86.8
+  },
+  {
+    "school_a": "California Institute of Technology",
+    "school_b": "Rice University",
+    "pct_a": 76.0,
+    "ci_low_a": 63.0,
+    "ci_high_a": 88.0
+  },
+  {
+    "school_a": "California Institute of Technology",
+    "school_b": "Vanderbilt University",
+    "pct_a": null,
+    "ci_low_a": null,
+    "ci_high_a": null
+  },
+  {
+    "school_a": "California Institute of Technology",
+    "school_b": "Carnegie Mellon University",
+    "pct_a": 67.0,
+    "ci_low_a": 50.3,
+    "ci_high_a": 83.9
+  },
+  {
+    "school_a": "California Institute of Technology",
+    "school_b": "University of Michigan - Ann Arbor",
+    "pct_a": 82.0,
+    "ci_low_a": 73.2,
+    "ci_high_a": 91.3
+  },
+  {
+    "school_a": "California Institute of Technology",
+    "school_b": "University of Notre Dame",
+    "pct_a": null,
+    "ci_low_a": null,
+    "ci_high_a": null
+  },
+  {
+    "school_a": "California Institute of Technology",
+    "school_b": "Washington University in St. Louis",
+    "pct_a": null,
+    "ci_low_a": null,
+    "ci_high_a": null
+  },
+  {
+    "school_a": "California Institute of Technology",
+    "school_b": "Emory University",
+    "pct_a": null,
+    "ci_low_a": null,
+    "ci_high_a": null
+  },
+  {
+    "school_a": "California Institute of Technology",
+    "school_b": "Georgetown University",
+    "pct_a": null,
+    "ci_low_a": null,
+    "ci_high_a": null
+  },
+  {
+    "school_a": "California Institute of Technology",
+    "school_b": "University of North Carolina at Chapel Hill",
+    "pct_a": null,
+    "ci_low_a": null,
+    "ci_high_a": null
+  },
+  {
+    "school_a": "California Institute of Technology",
+    "school_b": "University of Virginia",
+    "pct_a": 60.0,
+    "ci_low_a": 40.1,
+    "ci_high_a": 80.6
+  },
+  {
+    "school_a": "California Institute of Technology",
+    "school_b": "University of Southern California",
+    "pct_a": 40.0,
+    "ci_low_a": 19.4,
+    "ci_high_a": 59.9
+  },
+  {
+    "school_a": "California Institute of Technology",
+    "school_b": "University of California, San Diego",
+    "pct_a": 77.0,
+    "ci_low_a": 66.7,
+    "ci_high_a": 87.8
+  },
+  {
+    "school_a": "California Institute of Technology",
+    "school_b": "University of Florida",
+    "pct_a": 60.0,
+    "ci_low_a": 40.1,
+    "ci_high_a": 80.6
+  },
+  {
+    "school_a": "California Institute of Technology",
+    "school_b": "University of Texas at Austin",
+    "pct_a": 50.0,
+    "ci_low_a": 32.1,
+    "ci_high_a": 67.9
+  },
+  {
+    "school_a": "California Institute of Technology",
+    "school_b": "Georgia Institute of Technology",
+    "pct_a": 80.0,
+    "ci_low_a": 71.1,
+    "ci_high_a": 89.5
+  },
+  {
+    "school_a": "California Institute of Technology",
+    "school_b": "New York University",
+    "pct_a": null,
+    "ci_low_a": null,
+    "ci_high_a": null
+  },
+  {
+    "school_a": "California Institute of Technology",
+    "school_b": "University of California, Davis",
+    "pct_a": null,
+    "ci_low_a": null,
+    "ci_high_a": null
+  },
+  {
+    "school_a": "California Institute of Technology",
+    "school_b": "University of California, Irvine",
+    "pct_a": 63.0,
+    "ci_low_a": 46.1,
+    "ci_high_a": 79.4
+  },
+  {
+    "school_a": "California Institute of Technology",
+    "school_b": "Boston College",
+    "pct_a": null,
+    "ci_low_a": null,
+    "ci_high_a": null
+  },
+  {
+    "school_a": "California Institute of Technology",
+    "school_b": "Tufts University",
+    "pct_a": null,
+    "ci_low_a": null,
+    "ci_high_a": null
+  },
+  {
+    "school_a": "California Institute of Technology",
+    "school_b": "University of Illinois at Urbana-Champaign",
+    "pct_a": 50.0,
+    "ci_low_a": 29.3,
+    "ci_high_a": 70.7
+  },
+  {
+    "school_a": "California Institute of Technology",
+    "school_b": "University of Wisconsin - Madison",
+    "pct_a": null,
+    "ci_low_a": null,
+    "ci_high_a": null
+  },
+  {
+    "school_a": "California Institute of Technology",
+    "school_b": "University of California, Santa Barbara",
+    "pct_a": 60.0,
+    "ci_low_a": 40.1,
+    "ci_high_a": 80.6
+  },
+  {
+    "school_a": "Cornell University",
+    "school_b": "Brown University",
+    "pct_a": 25.0,
+    "ci_low_a": 14.5,
+    "ci_high_a": 35.0
+  },
+  {
+    "school_a": "Cornell University",
+    "school_b": "Dartmouth College",
+    "pct_a": 33.0,
+    "ci_low_a": 19.9,
+    "ci_high_a": 46.4
+  },
+  {
+    "school_a": "Cornell University",
+    "school_b": "Columbia University in the City of New York",
+    "pct_a": 23.0,
+    "ci_low_a": 14.0,
+    "ci_high_a": 31.0
+  },
+  {
+    "school_a": "Cornell University",
+    "school_b": "University of California, Berkeley",
+    "pct_a": 31.0,
+    "ci_low_a": 24.3,
+    "ci_high_a": 37.1
+  },
+  {
+    "school_a": "Cornell University",
+    "school_b": "University of California, Los Angeles",
+    "pct_a": 40.0,
+    "ci_low_a": 32.4,
+    "ci_high_a": 48.6
+  },
+  {
+    "school_a": "Cornell University",
+    "school_b": "Rice University",
+    "pct_a": 50.0,
+    "ci_low_a": 35.5,
+    "ci_high_a": 64.5
+  },
+  {
+    "school_a": "Cornell University",
+    "school_b": "Vanderbilt University",
+    "pct_a": 46.0,
+    "ci_low_a": 32.2,
+    "ci_high_a": 60.0
+  },
+  {
+    "school_a": "Cornell University",
+    "school_b": "Carnegie Mellon University",
+    "pct_a": 53.0,
+    "ci_low_a": 40.4,
+    "ci_high_a": 66.3
+  },
+  {
+    "school_a": "Cornell University",
+    "school_b": "University of Michigan - Ann Arbor",
+    "pct_a": 36.0,
+    "ci_low_a": 30.4,
+    "ci_high_a": 42.5
+  },
+  {
+    "school_a": "Cornell University",
+    "school_b": "University of Notre Dame",
+    "pct_a": 30.0,
+    "ci_low_a": 16.1,
+    "ci_high_a": 43.3
+  },
+  {
+    "school_a": "Cornell University",
+    "school_b": "Washington University in St. Louis",
+    "pct_a": 60.0,
+    "ci_low_a": 44.8,
+    "ci_high_a": 75.5
+  },
+  {
+    "school_a": "Cornell University",
+    "school_b": "Emory University",
+    "pct_a": 62.0,
+    "ci_low_a": 48.3,
+    "ci_high_a": 75.1
+  },
+  {
+    "school_a": "Cornell University",
+    "school_b": "Georgetown University",
+    "pct_a": 50.0,
+    "ci_low_a": 29.3,
+    "ci_high_a": 70.7
+  },
+  {
+    "school_a": "Cornell University",
+    "school_b": "University of North Carolina at Chapel Hill",
+    "pct_a": 77.0,
+    "ci_low_a": 66.7,
+    "ci_high_a": 87.8
+  },
+  {
+    "school_a": "Cornell University",
+    "school_b": "University of Virginia",
+    "pct_a": 68.0,
+    "ci_low_a": 59.2,
+    "ci_high_a": 76.7
+  },
+  {
+    "school_a": "Cornell University",
+    "school_b": "University of Southern California",
+    "pct_a": 37.0,
+    "ci_low_a": 25.4,
+    "ci_high_a": 49.4
+  },
+  {
+    "school_a": "Cornell University",
+    "school_b": "University of California, San Diego",
+    "pct_a": 74.0,
+    "ci_low_a": 64.2,
+    "ci_high_a": 83.6
+  },
+  {
+    "school_a": "Cornell University",
+    "school_b": "University of Florida",
+    "pct_a": 47.0,
+    "ci_low_a": 33.7,
+    "ci_high_a": 59.6
+  },
+  {
+    "school_a": "Cornell University",
+    "school_b": "University of Texas at Austin",
+    "pct_a": 54.0,
+    "ci_low_a": 44.1,
+    "ci_high_a": 63.0
+  },
+  {
+    "school_a": "Cornell University",
+    "school_b": "Georgia Institute of Technology",
+    "pct_a": 62.0,
+    "ci_low_a": 53.1,
+    "ci_high_a": 71.1
+  },
+  {
+    "school_a": "Cornell University",
+    "school_b": "New York University",
+    "pct_a": 74.0,
+    "ci_low_a": 62.7,
+    "ci_high_a": 84.4
+  },
+  {
+    "school_a": "Cornell University",
+    "school_b": "University of California, Davis",
+    "pct_a": 56.0,
+    "ci_low_a": 43.9,
+    "ci_high_a": 68.7
+  },
+  {
+    "school_a": "Cornell University",
+    "school_b": "University of California, Irvine",
+    "pct_a": 64.0,
+    "ci_low_a": 51.8,
+    "ci_high_a": 77.1
+  },
+  {
+    "school_a": "Cornell University",
+    "school_b": "Boston College",
+    "pct_a": 60.0,
+    "ci_low_a": 40.1,
+    "ci_high_a": 80.6
+  },
+  {
+    "school_a": "Cornell University",
+    "school_b": "Tufts University",
+    "pct_a": 72.0,
+    "ci_low_a": 57.6,
+    "ci_high_a": 86.2
+  },
+  {
+    "school_a": "Cornell University",
+    "school_b": "University of Illinois at Urbana-Champaign",
+    "pct_a": 75.0,
+    "ci_low_a": 65.9,
+    "ci_high_a": 84.5
+  },
+  {
+    "school_a": "Cornell University",
+    "school_b": "University of Wisconsin - Madison",
+    "pct_a": 52.0,
+    "ci_low_a": 41.5,
+    "ci_high_a": 63.3
+  },
+  {
+    "school_a": "Cornell University",
+    "school_b": "University of California, Santa Barbara",
+    "pct_a": 86.0,
+    "ci_low_a": 79.4,
+    "ci_high_a": 92.6
+  },
+  {
+    "school_a": "Brown University",
+    "school_b": "Dartmouth College",
+    "pct_a": 57.0,
+    "ci_low_a": 44.0,
+    "ci_high_a": 70.5
+  },
+  {
+    "school_a": "Brown University",
+    "school_b": "Columbia University in the City of New York",
+    "pct_a": 25.0,
+    "ci_low_a": 14.5,
+    "ci_high_a": 35.0
+  },
+  {
+    "school_a": "Brown University",
+    "school_b": "University of California, Berkeley",
+    "pct_a": 65.0,
+    "ci_low_a": 56.2,
+    "ci_high_a": 74.7
+  },
+  {
+    "school_a": "Brown University",
+    "school_b": "University of California, Los Angeles",
+    "pct_a": 72.0,
+    "ci_low_a": 63.2,
+    "ci_high_a": 79.9
+  },
+  {
+    "school_a": "Brown University",
+    "school_b": "Rice University",
+    "pct_a": 60.0,
+    "ci_low_a": 44.8,
+    "ci_high_a": 75.5
+  },
+  {
+    "school_a": "Brown University",
+    "school_b": "Vanderbilt University",
+    "pct_a": 70.0,
+    "ci_low_a": 56.7,
+    "ci_high_a": 83.9
+  },
+  {
+    "school_a": "Brown University",
+    "school_b": "Carnegie Mellon University",
+    "pct_a": 63.0,
+    "ci_low_a": 46.1,
+    "ci_high_a": 79.4
+  },
+  {
+    "school_a": "Brown University",
+    "school_b": "University of Michigan - Ann Arbor",
+    "pct_a": 58.0,
+    "ci_low_a": 48.0,
+    "ci_high_a": 67.4
+  },
+  {
+    "school_a": "Brown University",
+    "school_b": "University of Notre Dame",
+    "pct_a": 57.0,
+    "ci_low_a": 38.7,
+    "ci_high_a": 76.0
+  },
+  {
+    "school_a": "Brown University",
+    "school_b": "Washington University in St. Louis",
+    "pct_a": 60.0,
+    "ci_low_a": 44.8,
+    "ci_high_a": 75.5
+  },
+  {
+    "school_a": "Brown University",
+    "school_b": "Emory University",
+    "pct_a": 84.0,
+    "ci_low_a": 75.5,
+    "ci_high_a": 92.1
+  },
+  {
+    "school_a": "Brown University",
+    "school_b": "Georgetown University",
+    "pct_a": 63.0,
+    "ci_low_a": 46.1,
+    "ci_high_a": 79.4
+  },
+  {
+    "school_a": "Brown University",
+    "school_b": "University of North Carolina at Chapel Hill",
+    "pct_a": 60.0,
+    "ci_low_a": 44.8,
+    "ci_high_a": 75.5
+  },
+  {
+    "school_a": "Brown University",
+    "school_b": "University of Virginia",
+    "pct_a": 72.0,
+    "ci_low_a": 60.1,
+    "ci_high_a": 83.2
+  },
+  {
+    "school_a": "Brown University",
+    "school_b": "University of Southern California",
+    "pct_a": 79.0,
+    "ci_low_a": 69.0,
+    "ci_high_a": 88.8
+  },
+  {
+    "school_a": "Brown University",
+    "school_b": "University of California, San Diego",
+    "pct_a": 86.0,
+    "ci_low_a": 79.4,
+    "ci_high_a": 92.6
+  },
+  {
+    "school_a": "Brown University",
+    "school_b": "University of Florida",
+    "pct_a": 57.0,
+    "ci_low_a": 38.7,
+    "ci_high_a": 76.0
+  },
+  {
+    "school_a": "Brown University",
+    "school_b": "University of Texas at Austin",
+    "pct_a": 60.0,
+    "ci_low_a": 44.8,
+    "ci_high_a": 75.5
+  },
+  {
+    "school_a": "Brown University",
+    "school_b": "Georgia Institute of Technology",
+    "pct_a": 69.0,
+    "ci_low_a": 57.6,
+    "ci_high_a": 80.2
+  },
+  {
+    "school_a": "Brown University",
+    "school_b": "New York University",
+    "pct_a": 78.0,
+    "ci_low_a": 67.2,
+    "ci_high_a": 89.4
+  },
+  {
+    "school_a": "Brown University",
+    "school_b": "University of California, Davis",
+    "pct_a": 80.0,
+    "ci_low_a": 70.5,
+    "ci_high_a": 90.4
+  },
+  {
+    "school_a": "Brown University",
+    "school_b": "University of California, Irvine",
+    "pct_a": 75.0,
+    "ci_low_a": 63.9,
+    "ci_high_a": 86.8
+  },
+  {
+    "school_a": "Brown University",
+    "school_b": "Boston College",
+    "pct_a": 57.0,
+    "ci_low_a": 38.7,
+    "ci_high_a": 76.0
+  },
+  {
+    "school_a": "Brown University",
+    "school_b": "Tufts University",
+    "pct_a": 72.0,
+    "ci_low_a": 57.6,
+    "ci_high_a": 86.2
+  },
+  {
+    "school_a": "Brown University",
+    "school_b": "University of Illinois at Urbana-Champaign",
+    "pct_a": 64.0,
+    "ci_low_a": 49.6,
+    "ci_high_a": 78.1
+  },
+  {
+    "school_a": "Brown University",
+    "school_b": "University of Wisconsin - Madison",
+    "pct_a": 56.0,
+    "ci_low_a": 39.0,
+    "ci_high_a": 72.3
+  },
+  {
+    "school_a": "Brown University",
+    "school_b": "University of California, Santa Barbara",
+    "pct_a": 86.0,
+    "ci_low_a": 79.0,
+    "ci_high_a": 93.2
+  },
+  {
+    "school_a": "Dartmouth College",
+    "school_b": "Columbia University in the City of New York",
+    "pct_a": 36.0,
+    "ci_low_a": 22.9,
+    "ci_high_a": 48.2
+  },
+  {
+    "school_a": "Dartmouth College",
+    "school_b": "University of California, Berkeley",
+    "pct_a": 67.0,
+    "ci_low_a": 52.0,
+    "ci_high_a": 82.0
+  },
+  {
+    "school_a": "Dartmouth College",
+    "school_b": "University of California, Los Angeles",
+    "pct_a": 69.0,
+    "ci_low_a": 57.1,
+    "ci_high_a": 81.8
+  },
+  {
+    "school_a": "Dartmouth College",
+    "school_b": "Rice University",
+    "pct_a": 72.0,
+    "ci_low_a": 57.6,
+    "ci_high_a": 86.2
+  },
+  {
+    "school_a": "Dartmouth College",
+    "school_b": "Vanderbilt University",
+    "pct_a": 76.0,
+    "ci_low_a": 63.0,
+    "ci_high_a": 88.0
+  },
+  {
+    "school_a": "Dartmouth College",
+    "school_b": "Carnegie Mellon University",
+    "pct_a": 72.0,
+    "ci_low_a": 57.6,
+    "ci_high_a": 86.2
+  },
+  {
+    "school_a": "Dartmouth College",
+    "school_b": "University of Michigan - Ann Arbor",
+    "pct_a": 64.0,
+    "ci_low_a": 53.5,
+    "ci_high_a": 73.9
+  },
+  {
+    "school_a": "Dartmouth College",
+    "school_b": "University of Notre Dame",
+    "pct_a": 57.0,
+    "ci_low_a": 38.7,
+    "ci_high_a": 76.0
+  },
+  {
+    "school_a": "Dartmouth College",
+    "school_b": "Washington University in St. Louis",
+    "pct_a": 60.0,
+    "ci_low_a": 40.1,
+    "ci_high_a": 80.6
+  },
+  {
+    "school_a": "Dartmouth College",
+    "school_b": "Emory University",
+    "pct_a": 50.0,
+    "ci_low_a": 29.3,
+    "ci_high_a": 70.7
+  },
+  {
+    "school_a": "Dartmouth College",
+    "school_b": "Georgetown University",
+    "pct_a": 72.0,
+    "ci_low_a": 57.6,
+    "ci_high_a": 86.2
+  },
+  {
+    "school_a": "Dartmouth College",
+    "school_b": "University of North Carolina at Chapel Hill",
+    "pct_a": 80.0,
+    "ci_low_a": 70.5,
+    "ci_high_a": 90.4
+  },
+  {
+    "school_a": "Dartmouth College",
+    "school_b": "University of Virginia",
+    "pct_a": 64.0,
+    "ci_low_a": 51.8,
+    "ci_high_a": 77.1
+  },
+  {
+    "school_a": "Dartmouth College",
+    "school_b": "University of Southern California",
+    "pct_a": 58.0,
+    "ci_low_a": 44.2,
+    "ci_high_a": 72.7
+  },
+  {
+    "school_a": "Dartmouth College",
+    "school_b": "University of California, San Diego",
+    "pct_a": 82.0,
+    "ci_low_a": 73.2,
+    "ci_high_a": 91.3
+  },
+  {
+    "school_a": "Dartmouth College",
+    "school_b": "University of Florida",
+    "pct_a": 60.0,
+    "ci_low_a": 40.1,
+    "ci_high_a": 80.6
+  },
+  {
+    "school_a": "Dartmouth College",
+    "school_b": "University of Texas at Austin",
+    "pct_a": 56.0,
+    "ci_low_a": 39.0,
+    "ci_high_a": 72.3
+  },
+  {
+    "school_a": "Dartmouth College",
+    "school_b": "Georgia Institute of Technology",
+    "pct_a": 73.0,
+    "ci_low_a": 60.6,
+    "ci_high_a": 85.5
+  },
+  {
+    "school_a": "Dartmouth College",
+    "school_b": "New York University",
+    "pct_a": 67.0,
+    "ci_low_a": 52.0,
+    "ci_high_a": 82.0
+  },
+  {
+    "school_a": "Dartmouth College",
+    "school_b": "University of California, Davis",
+    "pct_a": 67.0,
+    "ci_low_a": 50.3,
+    "ci_high_a": 83.9
+  },
+  {
+    "school_a": "Dartmouth College",
+    "school_b": "University of California, Irvine",
+    "pct_a": 72.0,
+    "ci_low_a": 57.6,
+    "ci_high_a": 86.2
+  },
+  {
+    "school_a": "Dartmouth College",
+    "school_b": "Boston College",
+    "pct_a": 67.0,
+    "ci_low_a": 50.3,
+    "ci_high_a": 83.9
+  },
+  {
+    "school_a": "Dartmouth College",
+    "school_b": "Tufts University",
+    "pct_a": null,
+    "ci_low_a": null,
+    "ci_high_a": null
+  },
+  {
+    "school_a": "Dartmouth College",
+    "school_b": "University of Illinois at Urbana-Champaign",
+    "pct_a": null,
+    "ci_low_a": null,
+    "ci_high_a": null
+  },
+  {
+    "school_a": "Dartmouth College",
+    "school_b": "University of Wisconsin - Madison",
+    "pct_a": 55.0,
+    "ci_low_a": 39.5,
+    "ci_high_a": 69.7
+  },
+  {
+    "school_a": "Dartmouth College",
+    "school_b": "University of California, Santa Barbara",
+    "pct_a": 72.0,
+    "ci_low_a": 57.6,
+    "ci_high_a": 86.2
+  },
+  {
+    "school_a": "Columbia University in the City of New York",
+    "school_b": "University of California, Berkeley",
+    "pct_a": 68.0,
+    "ci_low_a": 59.2,
+    "ci_high_a": 76.7
+  },
+  {
+    "school_a": "Columbia University in the City of New York",
+    "school_b": "University of California, Los Angeles",
+    "pct_a": 56.0,
+    "ci_low_a": 47.5,
+    "ci_high_a": 65.1
+  },
+  {
+    "school_a": "Columbia University in the City of New York",
+    "school_b": "Rice University",
+    "pct_a": 80.0,
+    "ci_low_a": 70.5,
+    "ci_high_a": 90.4
+  },
+  {
+    "school_a": "Columbia University in the City of New York",
+    "school_b": "Vanderbilt University",
+    "pct_a": 78.0,
+    "ci_low_a": 67.2,
+    "ci_high_a": 89.4
+  },
+  {
+    "school_a": "Columbia University in the City of New York",
+    "school_b": "Carnegie Mellon University",
+    "pct_a": 85.0,
+    "ci_low_a": 77.4,
+    "ci_high_a": 92.7
+  },
+  {
+    "school_a": "Columbia University in the City of New York",
+    "school_b": "University of Michigan - Ann Arbor",
+    "pct_a": 67.0,
+    "ci_low_a": 58.2,
+    "ci_high_a": 75.3
+  },
+  {
+    "school_a": "Columbia University in the City of New York",
+    "school_b": "University of Notre Dame",
+    "pct_a": 72.0,
+    "ci_low_a": 57.6,
+    "ci_high_a": 86.2
+  },
+  {
+    "school_a": "Columbia University in the City of New York",
+    "school_b": "Washington University in St. Louis",
+    "pct_a": 82.0,
+    "ci_low_a": 74.5,
+    "ci_high_a": 89.6
+  },
+  {
+    "school_a": "Columbia University in the City of New York",
+    "school_b": "Emory University",
+    "pct_a": 50.0,
+    "ci_low_a": 29.3,
+    "ci_high_a": 70.7
+  },
+  {
+    "school_a": "Columbia University in the City of New York",
+    "school_b": "Georgetown University",
+    "pct_a": 76.0,
+    "ci_low_a": 63.0,
+    "ci_high_a": 88.0
+  },
+  {
+    "school_a": "Columbia University in the City of New York",
+    "school_b": "University of North Carolina at Chapel Hill",
+    "pct_a": 50.0,
+    "ci_low_a": 32.1,
+    "ci_high_a": 67.9
+  },
+  {
+    "school_a": "Columbia University in the City of New York",
+    "school_b": "University of Virginia",
+    "pct_a": 59.0,
+    "ci_low_a": 48.7,
+    "ci_high_a": 69.6
+  },
+  {
+    "school_a": "Columbia University in the City of New York",
+    "school_b": "University of Southern California",
+    "pct_a": 69.0,
+    "ci_low_a": 57.6,
+    "ci_high_a": 80.2
+  },
+  {
+    "school_a": "Columbia University in the City of New York",
+    "school_b": "University of California, San Diego",
+    "pct_a": 72.0,
+    "ci_low_a": 60.1,
+    "ci_high_a": 83.2
+  },
+  {
+    "school_a": "Columbia University in the City of New York",
+    "school_b": "University of Florida",
+    "pct_a": 60.0,
+    "ci_low_a": 40.1,
+    "ci_high_a": 80.6
+  },
+  {
+    "school_a": "Columbia University in the City of New York",
+    "school_b": "University of Texas at Austin",
+    "pct_a": 50.0,
+    "ci_low_a": 37.4,
+    "ci_high_a": 62.6
+  },
+  {
+    "school_a": "Columbia University in the City of New York",
+    "school_b": "Georgia Institute of Technology",
+    "pct_a": 56.0,
+    "ci_low_a": 43.9,
+    "ci_high_a": 68.7
+  },
+  {
+    "school_a": "Columbia University in the City of New York",
+    "school_b": "New York University",
+    "pct_a": 77.0,
+    "ci_low_a": 67.0,
+    "ci_high_a": 86.4
+  },
+  {
+    "school_a": "Columbia University in the City of New York",
+    "school_b": "University of California, Davis",
+    "pct_a": 77.0,
+    "ci_low_a": 66.7,
+    "ci_high_a": 87.8
+  },
+  {
+    "school_a": "Columbia University in the City of New York",
+    "school_b": "University of California, Irvine",
+    "pct_a": 57.0,
+    "ci_low_a": 38.7,
+    "ci_high_a": 76.0
+  },
+  {
+    "school_a": "Columbia University in the City of New York",
+    "school_b": "Boston College",
+    "pct_a": 67.0,
+    "ci_low_a": 50.3,
+    "ci_high_a": 83.9
+  },
+  {
+    "school_a": "Columbia University in the City of New York",
+    "school_b": "Tufts University",
+    "pct_a": 72.0,
+    "ci_low_a": 57.6,
+    "ci_high_a": 86.2
+  },
+  {
+    "school_a": "Columbia University in the City of New York",
+    "school_b": "University of Illinois at Urbana-Champaign",
+    "pct_a": 56.0,
+    "ci_low_a": 39.0,
+    "ci_high_a": 72.3
+  },
+  {
+    "school_a": "Columbia University in the City of New York",
+    "school_b": "University of Wisconsin - Madison",
+    "pct_a": 86.0,
+    "ci_low_a": 79.0,
+    "ci_high_a": 93.2
+  },
+  {
+    "school_a": "Columbia University in the City of New York",
+    "school_b": "University of California, Santa Barbara",
+    "pct_a": 67.0,
+    "ci_low_a": 52.0,
+    "ci_high_a": 82.0
+  },
+  {
+    "school_a": "University of California, Berkeley",
+    "school_b": "University of California, Los Angeles",
+    "pct_a": 39.0,
+    "ci_low_a": 37.1,
+    "ci_high_a": 40.5
+  },
+  {
+    "school_a": "University of California, Berkeley",
+    "school_b": "Rice University",
+    "pct_a": 57.0,
+    "ci_low_a": 44.0,
+    "ci_high_a": 70.5
+  },
+  {
+    "school_a": "University of California, Berkeley",
+    "school_b": "Vanderbilt University",
+    "pct_a": 70.0,
+    "ci_low_a": 60.3,
+    "ci_high_a": 79.1
+  },
+  {
+    "school_a": "University of California, Berkeley",
+    "school_b": "Carnegie Mellon University",
+    "pct_a": 80.0,
+    "ci_low_a": 73.3,
+    "ci_high_a": 85.9
+  },
+  {
+    "school_a": "University of California, Berkeley",
+    "school_b": "University of Michigan - Ann Arbor",
+    "pct_a": 58.0,
+    "ci_low_a": 53.5,
+    "ci_high_a": 62.3
+  },
+  {
+    "school_a": "University of California, Berkeley",
+    "school_b": "University of Notre Dame",
+    "pct_a": 50.0,
+    "ci_low_a": 38.8,
+    "ci_high_a": 61.2
+  },
+  {
+    "school_a": "University of California, Berkeley",
+    "school_b": "Washington University in St. Louis",
+    "pct_a": 75.0,
+    "ci_low_a": 65.9,
+    "ci_high_a": 84.5
+  },
+  {
+    "school_a": "University of California, Berkeley",
+    "school_b": "Emory University",
+    "pct_a": 82.0,
+    "ci_low_a": 75.5,
+    "ci_high_a": 89.1
+  },
+  {
+    "school_a": "University of California, Berkeley",
+    "school_b": "Georgetown University",
+    "pct_a": 48.0,
+    "ci_low_a": 36.7,
+    "ci_high_a": 58.5
+  },
+  {
+    "school_a": "University of California, Berkeley",
+    "school_b": "University of North Carolina at Chapel Hill",
+    "pct_a": 77.0,
+    "ci_low_a": 69.1,
+    "ci_high_a": 85.0
+  },
+  {
+    "school_a": "University of California, Berkeley",
+    "school_b": "University of Virginia",
+    "pct_a": 50.0,
+    "ci_low_a": 39.8,
+    "ci_high_a": 60.2
+  },
+  {
+    "school_a": "University of California, Berkeley",
+    "school_b": "University of Southern California",
+    "pct_a": 52.0,
+    "ci_low_a": 48.7,
+    "ci_high_a": 55.8
+  },
+  {
+    "school_a": "University of California, Berkeley",
+    "school_b": "University of California, San Diego",
+    "pct_a": 79.0,
+    "ci_low_a": 77.8,
+    "ci_high_a": 81.0
+  },
+  {
+    "school_a": "University of California, Berkeley",
+    "school_b": "University of Florida",
+    "pct_a": 76.0,
+    "ci_low_a": 67.5,
+    "ci_high_a": 85.3
+  },
+  {
+    "school_a": "University of California, Berkeley",
+    "school_b": "University of Texas at Austin",
+    "pct_a": 64.0,
+    "ci_low_a": 58.6,
+    "ci_high_a": 69.1
+  },
+  {
+    "school_a": "University of California, Berkeley",
+    "school_b": "Georgia Institute of Technology",
+    "pct_a": 79.0,
+    "ci_low_a": 74.1,
+    "ci_high_a": 83.4
+  },
+  {
+    "school_a": "University of California, Berkeley",
+    "school_b": "New York University",
+    "pct_a": 80.0,
+    "ci_low_a": 75.2,
+    "ci_high_a": 84.4
+  },
+  {
+    "school_a": "University of California, Berkeley",
+    "school_b": "University of California, Davis",
+    "pct_a": 83.0,
+    "ci_low_a": 81.0,
+    "ci_high_a": 84.9
+  },
+  {
+    "school_a": "University of California, Berkeley",
+    "school_b": "University of California, Irvine",
+    "pct_a": 80.0,
+    "ci_low_a": 78.2,
+    "ci_high_a": 82.0
+  },
+  {
+    "school_a": "University of California, Berkeley",
+    "school_b": "Boston College",
+    "pct_a": 69.0,
+    "ci_low_a": 57.6,
+    "ci_high_a": 80.2
+  },
+  {
+    "school_a": "University of California, Berkeley",
+    "school_b": "Tufts University",
+    "pct_a": 69.0,
+    "ci_low_a": 57.1,
+    "ci_high_a": 81.8
+  },
+  {
+    "school_a": "University of California, Berkeley",
+    "school_b": "University of Illinois at Urbana-Champaign",
+    "pct_a": 89.0,
+    "ci_low_a": 84.8,
+    "ci_high_a": 92.5
+  },
+  {
+    "school_a": "University of California, Berkeley",
+    "school_b": "University of Wisconsin - Madison",
+    "pct_a": 72.0,
+    "ci_low_a": 65.2,
+    "ci_high_a": 78.4
+  },
+  {
+    "school_a": "University of California, Berkeley",
+    "school_b": "University of California, Santa Barbara",
+    "pct_a": 87.0,
+    "ci_low_a": 85.1,
+    "ci_high_a": 88.5
+  },
+  {
+    "school_a": "University of California, Los Angeles",
+    "school_b": "Rice University",
+    "pct_a": 53.0,
+    "ci_low_a": 40.4,
+    "ci_high_a": 66.3
+  },
+  {
+    "school_a": "University of California, Los Angeles",
+    "school_b": "Vanderbilt University",
+    "pct_a": 61.0,
+    "ci_low_a": 50.8,
+    "ci_high_a": 71.1
+  },
+  {
+    "school_a": "University of California, Los Angeles",
+    "school_b": "Carnegie Mellon University",
+    "pct_a": 69.0,
+    "ci_low_a": 60.6,
+    "ci_high_a": 77.6
+  },
+  {
+    "school_a": "University of California, Los Angeles",
+    "school_b": "University of Michigan - Ann Arbor",
+    "pct_a": 55.0,
+    "ci_low_a": 50.4,
+    "ci_high_a": 59.4
+  },
+  {
+    "school_a": "University of California, Los Angeles",
+    "school_b": "University of Notre Dame",
+    "pct_a": 39.0,
+    "ci_low_a": 27.3,
+    "ci_high_a": 50.2
+  },
+  {
+    "school_a": "University of California, Los Angeles",
+    "school_b": "Washington University in St. Louis",
+    "pct_a": 71.0,
+    "ci_low_a": 61.9,
+    "ci_high_a": 80.1
+  },
+  {
+    "school_a": "University of California, Los Angeles",
+    "school_b": "Emory University",
+    "pct_a": 80.0,
+    "ci_low_a": 71.9,
+    "ci_high_a": 88.5
+  },
+  {
+    "school_a": "University of California, Los Angeles",
+    "school_b": "Georgetown University",
+    "pct_a": 55.0,
+    "ci_low_a": 43.9,
+    "ci_high_a": 66.2
+  },
+  {
+    "school_a": "University of California, Los Angeles",
+    "school_b": "University of North Carolina at Chapel Hill",
+    "pct_a": 87.0,
+    "ci_low_a": 80.5,
+    "ci_high_a": 93.7
+  },
+  {
+    "school_a": "University of California, Los Angeles",
+    "school_b": "University of Virginia",
+    "pct_a": 60.0,
+    "ci_low_a": 53.4,
+    "ci_high_a": 67.5
+  },
+  {
+    "school_a": "University of California, Los Angeles",
+    "school_b": "University of Southern California",
+    "pct_a": 59.0,
+    "ci_low_a": 55.7,
+    "ci_high_a": 61.7
+  },
+  {
+    "school_a": "University of California, Los Angeles",
+    "school_b": "University of California, San Diego",
+    "pct_a": 86.0,
+    "ci_low_a": 84.3,
+    "ci_high_a": 86.8
+  },
+  {
+    "school_a": "University of California, Los Angeles",
+    "school_b": "University of Florida",
+    "pct_a": 74.0,
+    "ci_low_a": 66.6,
+    "ci_high_a": 82.0
+  },
+  {
+    "school_a": "University of California, Los Angeles",
+    "school_b": "University of Texas at Austin",
+    "pct_a": 47.0,
+    "ci_low_a": 41.5,
+    "ci_high_a": 53.1
+  },
+  {
+    "school_a": "University of California, Los Angeles",
+    "school_b": "Georgia Institute of Technology",
+    "pct_a": 72.0,
+    "ci_low_a": 65.8,
+    "ci_high_a": 78.4
+  },
+  {
+    "school_a": "University of California, Los Angeles",
+    "school_b": "New York University",
+    "pct_a": 85.0,
+    "ci_low_a": 81.8,
+    "ci_high_a": 88.9
+  },
+  {
+    "school_a": "University of California, Los Angeles",
+    "school_b": "University of California, Davis",
+    "pct_a": 90.0,
+    "ci_low_a": 88.5,
+    "ci_high_a": 91.7
+  },
+  {
+    "school_a": "University of California, Los Angeles",
+    "school_b": "University of California, Irvine",
+    "pct_a": 80.0,
+    "ci_low_a": 78.7,
+    "ci_high_a": 81.8
+  },
+  {
+    "school_a": "University of California, Los Angeles",
+    "school_b": "Boston College",
+    "pct_a": 59.0,
+    "ci_low_a": 50.4,
+    "ci_high_a": 67.3
+  },
+  {
+    "school_a": "University of California, Los Angeles",
+    "school_b": "Tufts University",
+    "pct_a": 60.0,
+    "ci_low_a": 44.8,
+    "ci_high_a": 75.5
+  },
+  {
+    "school_a": "University of California, Los Angeles",
+    "school_b": "University of Illinois at Urbana-Champaign",
+    "pct_a": 73.0,
+    "ci_low_a": 66.2,
+    "ci_high_a": 79.4
+  },
+  {
+    "school_a": "University of California, Los Angeles",
+    "school_b": "University of Wisconsin - Madison",
+    "pct_a": 71.0,
+    "ci_low_a": 64.8,
+    "ci_high_a": 76.7
+  },
+  {
+    "school_a": "University of California, Los Angeles",
+    "school_b": "University of California, Santa Barbara",
+    "pct_a": 92.0,
+    "ci_low_a": 91.3,
+    "ci_high_a": 93.6
+  },
+  {
+    "school_a": "Rice University",
+    "school_b": "Vanderbilt University",
+    "pct_a": 44.0,
+    "ci_low_a": 27.7,
+    "ci_high_a": 61.0
+  },
+  {
+    "school_a": "Rice University",
+    "school_b": "Carnegie Mellon University",
+    "pct_a": 85.0,
+    "ci_low_a": 77.4,
+    "ci_high_a": 92.7
+  },
+  {
+    "school_a": "Rice University",
+    "school_b": "University of Michigan - Ann Arbor",
+    "pct_a": 69.0,
+    "ci_low_a": 58.1,
+    "ci_high_a": 79.0
+  },
+  {
+    "school_a": "Rice University",
+    "school_b": "University of Notre Dame",
+    "pct_a": 60.0,
+    "ci_low_a": 44.8,
+    "ci_high_a": 75.5
+  },
+  {
+    "school_a": "Rice University",
+    "school_b": "Washington University in St. Louis",
+    "pct_a": 53.0,
+    "ci_low_a": 40.4,
+    "ci_high_a": 66.3
+  },
+  {
+    "school_a": "Rice University",
+    "school_b": "Emory University",
+    "pct_a": 74.0,
+    "ci_low_a": 62.7,
+    "ci_high_a": 84.4
+  },
+  {
+    "school_a": "Rice University",
+    "school_b": "Georgetown University",
+    "pct_a": 50.0,
+    "ci_low_a": 29.3,
+    "ci_high_a": 70.7
+  },
+  {
+    "school_a": "Rice University",
+    "school_b": "University of North Carolina at Chapel Hill",
+    "pct_a": 72.0,
+    "ci_low_a": 57.6,
+    "ci_high_a": 86.2
+  },
+  {
+    "school_a": "Rice University",
+    "school_b": "University of Virginia",
+    "pct_a": 50.0,
+    "ci_low_a": 35.5,
+    "ci_high_a": 64.5
+  },
+  {
+    "school_a": "Rice University",
+    "school_b": "University of Southern California",
+    "pct_a": 42.0,
+    "ci_low_a": 27.3,
+    "ci_high_a": 55.8
+  },
+  {
+    "school_a": "Rice University",
+    "school_b": "University of California, San Diego",
+    "pct_a": 62.0,
+    "ci_low_a": 48.3,
+    "ci_high_a": 75.1
+  },
+  {
+    "school_a": "Rice University",
+    "school_b": "University of Florida",
+    "pct_a": 50.0,
+    "ci_low_a": 29.3,
+    "ci_high_a": 70.7
+  },
+  {
+    "school_a": "Rice University",
+    "school_b": "University of Texas at Austin",
+    "pct_a": 65.0,
+    "ci_low_a": 59.1,
+    "ci_high_a": 71.9
+  },
+  {
+    "school_a": "Rice University",
+    "school_b": "Georgia Institute of Technology",
+    "pct_a": 56.0,
+    "ci_low_a": 43.9,
+    "ci_high_a": 67.3
+  },
+  {
+    "school_a": "Rice University",
+    "school_b": "New York University",
+    "pct_a": 57.0,
+    "ci_low_a": 38.7,
+    "ci_high_a": 76.0
+  },
+  {
+    "school_a": "Rice University",
+    "school_b": "University of California, Davis",
+    "pct_a": 60.0,
+    "ci_low_a": 40.1,
+    "ci_high_a": 80.6
+  },
+  {
+    "school_a": "Rice University",
+    "school_b": "University of California, Irvine",
+    "pct_a": 63.0,
+    "ci_low_a": 46.1,
+    "ci_high_a": 79.4
+  },
+  {
+    "school_a": "Rice University",
+    "school_b": "Boston College",
+    "pct_a": 78.0,
+    "ci_low_a": 67.2,
+    "ci_high_a": 89.4
+  },
+  {
+    "school_a": "Rice University",
+    "school_b": "Tufts University",
+    "pct_a": 57.0,
+    "ci_low_a": 38.7,
+    "ci_high_a": 76.0
+  },
+  {
+    "school_a": "Rice University",
+    "school_b": "University of Illinois at Urbana-Champaign",
+    "pct_a": 82.0,
+    "ci_low_a": 73.2,
+    "ci_high_a": 91.3
+  },
+  {
+    "school_a": "Rice University",
+    "school_b": "University of Wisconsin - Madison",
+    "pct_a": 56.0,
+    "ci_low_a": 39.0,
+    "ci_high_a": 72.3
+  },
+  {
+    "school_a": "Rice University",
+    "school_b": "University of California, Santa Barbara",
+    "pct_a": 76.0,
+    "ci_low_a": 63.0,
+    "ci_high_a": 88.0
+  },
+  {
+    "school_a": "Vanderbilt University",
+    "school_b": "Carnegie Mellon University",
+    "pct_a": 76.0,
+    "ci_low_a": 63.0,
+    "ci_high_a": 88.0
+  },
+  {
+    "school_a": "Vanderbilt University",
+    "school_b": "University of Michigan - Ann Arbor",
+    "pct_a": 48.0,
+    "ci_low_a": 38.5,
+    "ci_high_a": 57.8
+  },
+  {
+    "school_a": "Vanderbilt University",
+    "school_b": "University of Notre Dame",
+    "pct_a": 27.0,
+    "ci_low_a": 14.5,
+    "ci_high_a": 39.4
+  },
+  {
+    "school_a": "Vanderbilt University",
+    "school_b": "Washington University in St. Louis",
+    "pct_a": 44.0,
+    "ci_low_a": 31.3,
+    "ci_high_a": 56.1
+  },
+  {
+    "school_a": "Vanderbilt University",
+    "school_b": "Emory University",
+    "pct_a": 64.0,
+    "ci_low_a": 51.8,
+    "ci_high_a": 77.1
+  },
+  {
+    "school_a": "Vanderbilt University",
+    "school_b": "Georgetown University",
+    "pct_a": 76.0,
+    "ci_low_a": 63.0,
+    "ci_high_a": 88.0
+  },
+  {
+    "school_a": "Vanderbilt University",
+    "school_b": "University of North Carolina at Chapel Hill",
+    "pct_a": 69.0,
+    "ci_low_a": 57.6,
+    "ci_high_a": 80.2
+  },
+  {
+    "school_a": "Vanderbilt University",
+    "school_b": "University of Virginia",
+    "pct_a": 44.0,
+    "ci_low_a": 31.3,
+    "ci_high_a": 56.1
+  },
+  {
+    "school_a": "Vanderbilt University",
+    "school_b": "University of Southern California",
+    "pct_a": 28.0,
+    "ci_low_a": 16.8,
+    "ci_high_a": 39.9
+  },
+  {
+    "school_a": "Vanderbilt University",
+    "school_b": "University of California, San Diego",
+    "pct_a": 67.0,
+    "ci_low_a": 53.6,
+    "ci_high_a": 80.1
+  },
+  {
+    "school_a": "Vanderbilt University",
+    "school_b": "University of Florida",
+    "pct_a": 60.0,
+    "ci_low_a": 44.8,
+    "ci_high_a": 75.5
+  },
+  {
+    "school_a": "Vanderbilt University",
+    "school_b": "University of Texas at Austin",
+    "pct_a": 50.0,
+    "ci_low_a": 38.2,
+    "ci_high_a": 61.8
+  },
+  {
+    "school_a": "Vanderbilt University",
+    "school_b": "Georgia Institute of Technology",
+    "pct_a": 56.0,
+    "ci_low_a": 43.9,
+    "ci_high_a": 67.3
+  },
+  {
+    "school_a": "Vanderbilt University",
+    "school_b": "New York University",
+    "pct_a": 33.0,
+    "ci_low_a": 18.0,
+    "ci_high_a": 48.0
+  },
+  {
+    "school_a": "Vanderbilt University",
+    "school_b": "University of California, Davis",
+    "pct_a": 50.0,
+    "ci_low_a": 29.3,
+    "ci_high_a": 70.7
+  },
+  {
+    "school_a": "Vanderbilt University",
+    "school_b": "University of California, Irvine",
+    "pct_a": 63.0,
+    "ci_low_a": 46.1,
+    "ci_high_a": 79.4
+  },
+  {
+    "school_a": "Vanderbilt University",
+    "school_b": "Boston College",
+    "pct_a": 57.0,
+    "ci_low_a": 38.7,
+    "ci_high_a": 76.0
+  },
+  {
+    "school_a": "Vanderbilt University",
+    "school_b": "Tufts University",
+    "pct_a": 72.0,
+    "ci_low_a": 57.6,
+    "ci_high_a": 86.2
+  },
+  {
+    "school_a": "Vanderbilt University",
+    "school_b": "University of Illinois at Urbana-Champaign",
+    "pct_a": 57.0,
+    "ci_low_a": 44.0,
+    "ci_high_a": 70.5
+  },
+  {
+    "school_a": "Vanderbilt University",
+    "school_b": "University of Wisconsin - Madison",
+    "pct_a": 56.0,
+    "ci_low_a": 43.9,
+    "ci_high_a": 68.7
+  },
+  {
+    "school_a": "Vanderbilt University",
+    "school_b": "University of California, Santa Barbara",
+    "pct_a": 67.0,
+    "ci_low_a": 50.3,
+    "ci_high_a": 83.9
+  },
+  {
+    "school_a": "Carnegie Mellon University",
+    "school_b": "University of Michigan - Ann Arbor",
+    "pct_a": 31.0,
+    "ci_low_a": 24.9,
+    "ci_high_a": 37.8
+  },
+  {
+    "school_a": "Carnegie Mellon University",
+    "school_b": "University of Notre Dame",
+    "pct_a": 33.0,
+    "ci_low_a": 18.0,
+    "ci_high_a": 48.0
+  },
+  {
+    "school_a": "Carnegie Mellon University",
+    "school_b": "Washington University in St. Louis",
+    "pct_a": 37.0,
+    "ci_low_a": 20.6,
+    "ci_high_a": 53.9
+  },
+  {
+    "school_a": "Carnegie Mellon University",
+    "school_b": "Emory University",
+    "pct_a": 78.0,
+    "ci_low_a": 67.2,
+    "ci_high_a": 89.4
+  },
+  {
+    "school_a": "Carnegie Mellon University",
+    "school_b": "Georgetown University",
+    "pct_a": null,
+    "ci_low_a": null,
+    "ci_high_a": null
+  },
+  {
+    "school_a": "Carnegie Mellon University",
+    "school_b": "University of North Carolina at Chapel Hill",
+    "pct_a": 57.0,
+    "ci_low_a": 38.7,
+    "ci_high_a": 76.0
+  },
+  {
+    "school_a": "Carnegie Mellon University",
+    "school_b": "University of Virginia",
+    "pct_a": 45.0,
+    "ci_low_a": 34.8,
+    "ci_high_a": 56.1
+  },
+  {
+    "school_a": "Carnegie Mellon University",
+    "school_b": "University of Southern California",
+    "pct_a": 32.0,
+    "ci_low_a": 21.9,
+    "ci_high_a": 41.5
+  },
+  {
+    "school_a": "Carnegie Mellon University",
+    "school_b": "University of California, San Diego",
+    "pct_a": 61.0,
+    "ci_low_a": 49.8,
+    "ci_high_a": 72.7
+  },
+  {
+    "school_a": "Carnegie Mellon University",
+    "school_b": "University of Florida",
+    "pct_a": null,
+    "ci_low_a": null,
+    "ci_high_a": null
+  },
+  {
+    "school_a": "Carnegie Mellon University",
+    "school_b": "University of Texas at Austin",
+    "pct_a": 38.0,
+    "ci_low_a": 28.9,
+    "ci_high_a": 46.9
+  },
+  {
+    "school_a": "Carnegie Mellon University",
+    "school_b": "Georgia Institute of Technology",
+    "pct_a": 54.0,
+    "ci_low_a": 45.9,
+    "ci_high_a": 62.3
+  },
+  {
+    "school_a": "Carnegie Mellon University",
+    "school_b": "New York University",
+    "pct_a": 64.0,
+    "ci_low_a": 51.8,
+    "ci_high_a": 77.1
+  },
+  {
+    "school_a": "Carnegie Mellon University",
+    "school_b": "University of California, Davis",
+    "pct_a": 75.0,
+    "ci_low_a": 63.9,
+    "ci_high_a": 86.8
+  },
+  {
+    "school_a": "Carnegie Mellon University",
+    "school_b": "University of California, Irvine",
+    "pct_a": 57.0,
+    "ci_low_a": 44.0,
+    "ci_high_a": 70.5
+  },
+  {
+    "school_a": "Carnegie Mellon University",
+    "school_b": "Boston College",
+    "pct_a": 50.0,
+    "ci_low_a": 29.3,
+    "ci_high_a": 70.7
+  },
+  {
+    "school_a": "Carnegie Mellon University",
+    "school_b": "Tufts University",
+    "pct_a": 50.0,
+    "ci_low_a": 29.3,
+    "ci_high_a": 70.7
+  },
+  {
+    "school_a": "Carnegie Mellon University",
+    "school_b": "University of Illinois at Urbana-Champaign",
+    "pct_a": 60.0,
+    "ci_low_a": 51.1,
+    "ci_high_a": 69.0
+  },
+  {
+    "school_a": "Carnegie Mellon University",
+    "school_b": "University of Wisconsin - Madison",
+    "pct_a": 67.0,
+    "ci_low_a": 55.9,
+    "ci_high_a": 77.8
+  },
+  {
+    "school_a": "Carnegie Mellon University",
+    "school_b": "University of California, Santa Barbara",
+    "pct_a": 60.0,
+    "ci_low_a": 44.8,
+    "ci_high_a": 75.5
+  },
+  {
+    "school_a": "University of Michigan - Ann Arbor",
+    "school_b": "University of Notre Dame",
+    "pct_a": 39.0,
+    "ci_low_a": 33.1,
+    "ci_high_a": 44.6
+  },
+  {
+    "school_a": "University of Michigan - Ann Arbor",
+    "school_b": "Washington University in St. Louis",
+    "pct_a": 66.0,
+    "ci_low_a": 56.8,
+    "ci_high_a": 74.4
+  },
+  {
+    "school_a": "University of Michigan - Ann Arbor",
+    "school_b": "Emory University",
+    "pct_a": 78.0,
+    "ci_low_a": 71.2,
+    "ci_high_a": 84.6
+  },
+  {
+    "school_a": "University of Michigan - Ann Arbor",
+    "school_b": "Georgetown University",
+    "pct_a": 63.0,
+    "ci_low_a": 52.7,
+    "ci_high_a": 72.4
+  },
+  {
+    "school_a": "University of Michigan - Ann Arbor",
+    "school_b": "University of North Carolina at Chapel Hill",
+    "pct_a": 75.0,
+    "ci_low_a": 68.7,
+    "ci_high_a": 81.5
+  },
+  {
+    "school_a": "University of Michigan - Ann Arbor",
+    "school_b": "University of Virginia",
+    "pct_a": 68.0,
+    "ci_low_a": 61.9,
+    "ci_high_a": 73.7
+  },
+  {
+    "school_a": "University of Michigan - Ann Arbor",
+    "school_b": "University of Southern California",
+    "pct_a": 47.0,
+    "ci_low_a": 40.7,
+    "ci_high_a": 52.4
+  },
+  {
+    "school_a": "University of Michigan - Ann Arbor",
+    "school_b": "University of California, San Diego",
+    "pct_a": 79.0,
+    "ci_low_a": 74.6,
+    "ci_high_a": 82.9
+  },
+  {
+    "school_a": "University of Michigan - Ann Arbor",
+    "school_b": "University of Florida",
+    "pct_a": 83.0,
+    "ci_low_a": 78.9,
+    "ci_high_a": 86.3
+  },
+  {
+    "school_a": "University of Michigan - Ann Arbor",
+    "school_b": "University of Texas at Austin",
+    "pct_a": 58.0,
+    "ci_low_a": 52.6,
+    "ci_high_a": 63.0
+  },
+  {
+    "school_a": "University of Michigan - Ann Arbor",
+    "school_b": "Georgia Institute of Technology",
+    "pct_a": 65.0,
+    "ci_low_a": 60.4,
+    "ci_high_a": 68.8
+  },
+  {
+    "school_a": "University of Michigan - Ann Arbor",
+    "school_b": "New York University",
+    "pct_a": 77.0,
+    "ci_low_a": 72.3,
+    "ci_high_a": 80.8
+  },
+  {
+    "school_a": "University of Michigan - Ann Arbor",
+    "school_b": "University of California, Davis",
+    "pct_a": 83.0,
+    "ci_low_a": 77.6,
+    "ci_high_a": 89.4
+  },
+  {
+    "school_a": "University of Michigan - Ann Arbor",
+    "school_b": "University of California, Irvine",
+    "pct_a": 85.0,
+    "ci_low_a": 80.3,
+    "ci_high_a": 90.2
+  },
+  {
+    "school_a": "University of Michigan - Ann Arbor",
+    "school_b": "Boston College",
+    "pct_a": 57.0,
+    "ci_low_a": 48.8,
+    "ci_high_a": 65.5
+  },
+  {
+    "school_a": "University of Michigan - Ann Arbor",
+    "school_b": "Tufts University",
+    "pct_a": 67.0,
+    "ci_low_a": 54.9,
+    "ci_high_a": 78.8
+  },
+  {
+    "school_a": "University of Michigan - Ann Arbor",
+    "school_b": "University of Illinois at Urbana-Champaign",
+    "pct_a": 71.0,
+    "ci_low_a": 68.4,
+    "ci_high_a": 73.9
+  },
+  {
+    "school_a": "University of Michigan - Ann Arbor",
+    "school_b": "University of Wisconsin - Madison",
+    "pct_a": 79.0,
+    "ci_low_a": 76.9,
+    "ci_high_a": 81.2
+  },
+  {
+    "school_a": "University of Michigan - Ann Arbor",
+    "school_b": "University of California, Santa Barbara",
+    "pct_a": 87.0,
+    "ci_low_a": 82.6,
+    "ci_high_a": 91.0
+  },
+  {
+    "school_a": "University of Notre Dame",
+    "school_b": "Washington University in St. Louis",
+    "pct_a": 73.0,
+    "ci_low_a": 60.6,
+    "ci_high_a": 85.5
+  },
+  {
+    "school_a": "University of Notre Dame",
+    "school_b": "Emory University",
+    "pct_a": 63.0,
+    "ci_low_a": 46.1,
+    "ci_high_a": 79.4
+  },
+  {
+    "school_a": "University of Notre Dame",
+    "school_b": "Georgetown University",
+    "pct_a": 69.0,
+    "ci_low_a": 57.1,
+    "ci_high_a": 81.8
+  },
+  {
+    "school_a": "University of Notre Dame",
+    "school_b": "University of North Carolina at Chapel Hill",
+    "pct_a": 60.0,
+    "ci_low_a": 44.8,
+    "ci_high_a": 75.5
+  },
+  {
+    "school_a": "University of Notre Dame",
+    "school_b": "University of Virginia",
+    "pct_a": 73.0,
+    "ci_low_a": 63.7,
+    "ci_high_a": 82.1
+  },
+  {
+    "school_a": "University of Notre Dame",
+    "school_b": "University of Southern California",
+    "pct_a": 40.0,
+    "ci_low_a": 29.0,
+    "ci_high_a": 50.9
+  },
+  {
+    "school_a": "University of Notre Dame",
+    "school_b": "University of California, San Diego",
+    "pct_a": 64.0,
+    "ci_low_a": 49.6,
+    "ci_high_a": 78.1
+  },
+  {
+    "school_a": "University of Notre Dame",
+    "school_b": "University of Florida",
+    "pct_a": 60.0,
+    "ci_low_a": 44.8,
+    "ci_high_a": 75.5
+  },
+  {
+    "school_a": "University of Notre Dame",
+    "school_b": "University of Texas at Austin",
+    "pct_a": 55.0,
+    "ci_low_a": 39.5,
+    "ci_high_a": 69.7
+  },
+  {
+    "school_a": "University of Notre Dame",
+    "school_b": "Georgia Institute of Technology",
+    "pct_a": 56.0,
+    "ci_low_a": 39.0,
+    "ci_high_a": 72.3
+  },
+  {
+    "school_a": "University of Notre Dame",
+    "school_b": "New York University",
+    "pct_a": 50.0,
+    "ci_low_a": 32.1,
+    "ci_high_a": 67.9
+  },
+  {
+    "school_a": "University of Notre Dame",
+    "school_b": "University of California, Davis",
+    "pct_a": 60.0,
+    "ci_low_a": 40.1,
+    "ci_high_a": 80.6
+  },
+  {
+    "school_a": "University of Notre Dame",
+    "school_b": "University of California, Irvine",
+    "pct_a": 58.0,
+    "ci_low_a": 44.2,
+    "ci_high_a": 72.7
+  },
+  {
+    "school_a": "University of Notre Dame",
+    "school_b": "Boston College",
+    "pct_a": 56.0,
+    "ci_low_a": 47.5,
+    "ci_high_a": 65.1
+  },
+  {
+    "school_a": "University of Notre Dame",
+    "school_b": "Tufts University",
+    "pct_a": 60.0,
+    "ci_low_a": 40.1,
+    "ci_high_a": 80.6
+  },
+  {
+    "school_a": "University of Notre Dame",
+    "school_b": "University of Illinois at Urbana-Champaign",
+    "pct_a": 63.0,
+    "ci_low_a": 53.8,
+    "ci_high_a": 72.3
+  },
+  {
+    "school_a": "University of Notre Dame",
+    "school_b": "University of Wisconsin - Madison",
+    "pct_a": 68.0,
+    "ci_low_a": 61.0,
+    "ci_high_a": 76.0
+  },
+  {
+    "school_a": "University of Notre Dame",
+    "school_b": "University of California, Santa Barbara",
+    "pct_a": 40.0,
+    "ci_low_a": 19.4,
+    "ci_high_a": 59.9
+  },
+  {
+    "school_a": "Washington University in St. Louis",
+    "school_b": "Emory University",
+    "pct_a": 75.0,
+    "ci_low_a": 65.0,
+    "ci_high_a": 85.5
+  },
+  {
+    "school_a": "Washington University in St. Louis",
+    "school_b": "Georgetown University",
+    "pct_a": 56.0,
+    "ci_low_a": 39.0,
+    "ci_high_a": 72.3
+  },
+  {
+    "school_a": "Washington University in St. Louis",
+    "school_b": "University of North Carolina at Chapel Hill",
+    "pct_a": 70.0,
+    "ci_low_a": 56.7,
+    "ci_high_a": 83.9
+  },
+  {
+    "school_a": "Washington University in St. Louis",
+    "school_b": "University of Virginia",
+    "pct_a": 44.0,
+    "ci_low_a": 31.3,
+    "ci_high_a": 56.1
+  },
+  {
+    "school_a": "Washington University in St. Louis",
+    "school_b": "University of Southern California",
+    "pct_a": 50.0,
+    "ci_low_a": 38.2,
+    "ci_high_a": 61.8
+  },
+  {
+    "school_a": "Washington University in St. Louis",
+    "school_b": "University of California, San Diego",
+    "pct_a": 76.0,
+    "ci_low_a": 63.0,
+    "ci_high_a": 88.0
+  },
+  {
+    "school_a": "Washington University in St. Louis",
+    "school_b": "University of Florida",
+    "pct_a": 57.0,
+    "ci_low_a": 38.7,
+    "ci_high_a": 76.0
+  },
+  {
+    "school_a": "Washington University in St. Louis",
+    "school_b": "University of Texas at Austin",
+    "pct_a": 56.0,
+    "ci_low_a": 43.9,
+    "ci_high_a": 68.7
+  },
+  {
+    "school_a": "Washington University in St. Louis",
+    "school_b": "Georgia Institute of Technology",
+    "pct_a": 54.0,
+    "ci_low_a": 40.0,
+    "ci_high_a": 67.8
+  },
+  {
+    "school_a": "Washington University in St. Louis",
+    "school_b": "New York University",
+    "pct_a": 67.0,
+    "ci_low_a": 52.0,
+    "ci_high_a": 82.0
+  },
+  {
+    "school_a": "Washington University in St. Louis",
+    "school_b": "University of California, Davis",
+    "pct_a": 72.0,
+    "ci_low_a": 57.6,
+    "ci_high_a": 86.2
+  },
+  {
+    "school_a": "Washington University in St. Louis",
+    "school_b": "University of California, Irvine",
+    "pct_a": 72.0,
+    "ci_low_a": 57.6,
+    "ci_high_a": 86.2
+  },
+  {
+    "school_a": "Washington University in St. Louis",
+    "school_b": "Boston College",
+    "pct_a": 72.0,
+    "ci_low_a": 57.6,
+    "ci_high_a": 86.2
+  },
+  {
+    "school_a": "Washington University in St. Louis",
+    "school_b": "Tufts University",
+    "pct_a": 67.0,
+    "ci_low_a": 50.3,
+    "ci_high_a": 83.9
+  },
+  {
+    "school_a": "Washington University in St. Louis",
+    "school_b": "University of Illinois at Urbana-Champaign",
+    "pct_a": 55.0,
+    "ci_low_a": 45.9,
+    "ci_high_a": 64.5
+  },
+  {
+    "school_a": "Washington University in St. Louis",
+    "school_b": "University of Wisconsin - Madison",
+    "pct_a": 65.0,
+    "ci_low_a": 53.4,
+    "ci_high_a": 76.3
+  },
+  {
+    "school_a": "Washington University in St. Louis",
+    "school_b": "University of California, Santa Barbara",
+    "pct_a": 67.0,
+    "ci_low_a": 52.0,
+    "ci_high_a": 82.0
+  },
+  {
+    "school_a": "Emory University",
+    "school_b": "Georgetown University",
+    "pct_a": 44.0,
+    "ci_low_a": 27.7,
+    "ci_high_a": 61.0
+  },
+  {
+    "school_a": "Emory University",
+    "school_b": "University of North Carolina at Chapel Hill",
+    "pct_a": 75.0,
+    "ci_low_a": 63.9,
+    "ci_high_a": 86.8
+  },
+  {
+    "school_a": "Emory University",
+    "school_b": "University of Virginia",
+    "pct_a": 54.0,
+    "ci_low_a": 44.1,
+    "ci_high_a": 63.7
+  },
+  {
+    "school_a": "Emory University",
+    "school_b": "University of Southern California",
+    "pct_a": 36.0,
+    "ci_low_a": 22.9,
+    "ci_high_a": 48.2
+  },
+  {
+    "school_a": "Emory University",
+    "school_b": "University of California, San Diego",
+    "pct_a": 45.0,
+    "ci_low_a": 30.3,
+    "ci_high_a": 60.5
+  },
+  {
+    "school_a": "Emory University",
+    "school_b": "University of Florida",
+    "pct_a": 44.0,
+    "ci_low_a": 31.3,
+    "ci_high_a": 56.1
+  },
+  {
+    "school_a": "Emory University",
+    "school_b": "University of Texas at Austin",
+    "pct_a": 57.0,
+    "ci_low_a": 46.4,
+    "ci_high_a": 68.0
+  },
+  {
+    "school_a": "Emory University",
+    "school_b": "Georgia Institute of Technology",
+    "pct_a": 28.0,
+    "ci_low_a": 21.7,
+    "ci_high_a": 33.3
+  },
+  {
+    "school_a": "Emory University",
+    "school_b": "New York University",
+    "pct_a": 44.0,
+    "ci_low_a": 27.7,
+    "ci_high_a": 61.0
+  },
+  {
+    "school_a": "Emory University",
+    "school_b": "University of California, Davis",
+    "pct_a": 57.0,
+    "ci_low_a": 38.7,
+    "ci_high_a": 76.0
+  },
+  {
+    "school_a": "Emory University",
+    "school_b": "University of California, Irvine",
+    "pct_a": 72.0,
+    "ci_low_a": 60.1,
+    "ci_high_a": 83.2
+  },
+  {
+    "school_a": "Emory University",
+    "school_b": "Boston College",
+    "pct_a": 69.0,
+    "ci_low_a": 57.1,
+    "ci_high_a": 81.8
+  },
+  {
+    "school_a": "Emory University",
+    "school_b": "Tufts University",
+    "pct_a": 43.0,
+    "ci_low_a": 24.0,
+    "ci_high_a": 61.3
+  },
+  {
+    "school_a": "Emory University",
+    "school_b": "University of Illinois at Urbana-Champaign",
+    "pct_a": 46.0,
+    "ci_low_a": 32.2,
+    "ci_high_a": 60.0
+  },
+  {
+    "school_a": "Emory University",
+    "school_b": "University of Wisconsin - Madison",
+    "pct_a": 69.0,
+    "ci_low_a": 57.6,
+    "ci_high_a": 80.2
+  },
+  {
+    "school_a": "Emory University",
+    "school_b": "University of California, Santa Barbara",
+    "pct_a": 67.0,
+    "ci_low_a": 53.6,
+    "ci_high_a": 80.1
+  },
+  {
+    "school_a": "Georgetown University",
+    "school_b": "University of North Carolina at Chapel Hill",
+    "pct_a": 44.0,
+    "ci_low_a": 27.7,
+    "ci_high_a": 61.0
+  },
+  {
+    "school_a": "Georgetown University",
+    "school_b": "University of Virginia",
+    "pct_a": 45.0,
+    "ci_low_a": 34.8,
+    "ci_high_a": 56.1
+  },
+  {
+    "school_a": "Georgetown University",
+    "school_b": "University of Southern California",
+    "pct_a": 31.0,
+    "ci_low_a": 18.2,
+    "ci_high_a": 42.9
+  },
+  {
+    "school_a": "Georgetown University",
+    "school_b": "University of California, San Diego",
+    "pct_a": 60.0,
+    "ci_low_a": 44.8,
+    "ci_high_a": 75.5
+  },
+  {
+    "school_a": "Georgetown University",
+    "school_b": "University of Florida",
+    "pct_a": 72.0,
+    "ci_low_a": 57.6,
+    "ci_high_a": 86.2
+  },
+  {
+    "school_a": "Georgetown University",
+    "school_b": "University of Texas at Austin",
+    "pct_a": 60.0,
+    "ci_low_a": 44.8,
+    "ci_high_a": 75.5
+  },
+  {
+    "school_a": "Georgetown University",
+    "school_b": "Georgia Institute of Technology",
+    "pct_a": 50.0,
+    "ci_low_a": 32.1,
+    "ci_high_a": 67.9
+  },
+  {
+    "school_a": "Georgetown University",
+    "school_b": "New York University",
+    "pct_a": 67.0,
+    "ci_low_a": 52.0,
+    "ci_high_a": 82.0
+  },
+  {
+    "school_a": "Georgetown University",
+    "school_b": "University of California, Davis",
+    "pct_a": 50.0,
+    "ci_low_a": 29.3,
+    "ci_high_a": 70.7
+  },
+  {
+    "school_a": "Georgetown University",
+    "school_b": "University of California, Irvine",
+    "pct_a": 57.0,
+    "ci_low_a": 38.7,
+    "ci_high_a": 76.0
+  },
+  {
+    "school_a": "Georgetown University",
+    "school_b": "Boston College",
+    "pct_a": 72.0,
+    "ci_low_a": 57.6,
+    "ci_high_a": 86.2
+  },
+  {
+    "school_a": "Georgetown University",
+    "school_b": "Tufts University",
+    "pct_a": 67.0,
+    "ci_low_a": 50.3,
+    "ci_high_a": 83.9
+  },
+  {
+    "school_a": "Georgetown University",
+    "school_b": "University of Illinois at Urbana-Champaign",
+    "pct_a": 57.0,
+    "ci_low_a": 38.7,
+    "ci_high_a": 76.0
+  },
+  {
+    "school_a": "Georgetown University",
+    "school_b": "University of Wisconsin - Madison",
+    "pct_a": 70.0,
+    "ci_low_a": 60.1,
+    "ci_high_a": 80.2
+  },
+  {
+    "school_a": "Georgetown University",
+    "school_b": "University of California, Santa Barbara",
+    "pct_a": 76.0,
+    "ci_low_a": 63.0,
+    "ci_high_a": 88.0
+  },
+  {
+    "school_a": "University of North Carolina at Chapel Hill",
+    "school_b": "University of Virginia",
+    "pct_a": 31.0,
+    "ci_low_a": 26.0,
+    "ci_high_a": 36.9
+  },
+  {
+    "school_a": "University of North Carolina at Chapel Hill",
+    "school_b": "University of Southern California",
+    "pct_a": 17.0,
+    "ci_low_a": 9.2,
+    "ci_high_a": 25.5
+  },
+  {
+    "school_a": "University of North Carolina at Chapel Hill",
+    "school_b": "University of California, San Diego",
+    "pct_a": 47.0,
+    "ci_low_a": 33.7,
+    "ci_high_a": 59.6
+  },
+  {
+    "school_a": "University of North Carolina at Chapel Hill",
+    "school_b": "University of Florida",
+    "pct_a": 60.0,
+    "ci_low_a": 50.3,
+    "ci_high_a": 69.9
+  },
+  {
+    "school_a": "University of North Carolina at Chapel Hill",
+    "school_b": "University of Texas at Austin",
+    "pct_a": 24.0,
+    "ci_low_a": 16.3,
+    "ci_high_a": 31.7
+  },
+  {
+    "school_a": "University of North Carolina at Chapel Hill",
+    "school_b": "Georgia Institute of Technology",
+    "pct_a": 24.0,
+    "ci_low_a": 16.8,
+    "ci_high_a": 31.4
+  },
+  {
+    "school_a": "University of North Carolina at Chapel Hill",
+    "school_b": "New York University",
+    "pct_a": 36.0,
+    "ci_low_a": 21.9,
+    "ci_high_a": 50.4
+  },
+  {
+    "school_a": "University of North Carolina at Chapel Hill",
+    "school_b": "University of California, Davis",
+    "pct_a": 63.0,
+    "ci_low_a": 46.1,
+    "ci_high_a": 79.4
+  },
+  {
+    "school_a": "University of North Carolina at Chapel Hill",
+    "school_b": "University of California, Irvine",
+    "pct_a": 50.0,
+    "ci_low_a": 34.1,
+    "ci_high_a": 65.9
+  },
+  {
+    "school_a": "University of North Carolina at Chapel Hill",
+    "school_b": "Boston College",
+    "pct_a": 60.0,
+    "ci_low_a": 40.1,
+    "ci_high_a": 80.6
+  },
+  {
+    "school_a": "University of North Carolina at Chapel Hill",
+    "school_b": "Tufts University",
+    "pct_a": 40.0,
+    "ci_low_a": 19.4,
+    "ci_high_a": 59.9
+  },
+  {
+    "school_a": "University of North Carolina at Chapel Hill",
+    "school_b": "University of Illinois at Urbana-Champaign",
+    "pct_a": 45.0,
+    "ci_low_a": 30.3,
+    "ci_high_a": 60.5
+  },
+  {
+    "school_a": "University of North Carolina at Chapel Hill",
+    "school_b": "University of Wisconsin - Madison",
+    "pct_a": 59.0,
+    "ci_low_a": 48.7,
+    "ci_high_a": 69.6
+  },
+  {
+    "school_a": "University of North Carolina at Chapel Hill",
+    "school_b": "University of California, Santa Barbara",
+    "pct_a": 57.0,
+    "ci_low_a": 38.7,
+    "ci_high_a": 76.0
+  },
+  {
+    "school_a": "University of Virginia",
+    "school_b": "University of Southern California",
+    "pct_a": 56.0,
+    "ci_low_a": 47.4,
+    "ci_high_a": 64.4
+  },
+  {
+    "school_a": "University of Virginia",
+    "school_b": "University of California, San Diego",
+    "pct_a": 58.0,
+    "ci_low_a": 48.3,
+    "ci_high_a": 68.5
+  },
+  {
+    "school_a": "University of Virginia",
+    "school_b": "University of Florida",
+    "pct_a": 75.0,
+    "ci_low_a": 68.9,
+    "ci_high_a": 81.2
+  },
+  {
+    "school_a": "University of Virginia",
+    "school_b": "University of Texas at Austin",
+    "pct_a": 40.0,
+    "ci_low_a": 30.1,
+    "ci_high_a": 49.7
+  },
+  {
+    "school_a": "University of Virginia",
+    "school_b": "Georgia Institute of Technology",
+    "pct_a": 49.0,
+    "ci_low_a": 42.9,
+    "ci_high_a": 55.5
+  },
+  {
+    "school_a": "University of Virginia",
+    "school_b": "New York University",
+    "pct_a": 61.0,
+    "ci_low_a": 52.6,
+    "ci_high_a": 70.1
+  },
+  {
+    "school_a": "University of Virginia",
+    "school_b": "University of California, Davis",
+    "pct_a": 57.0,
+    "ci_low_a": 38.7,
+    "ci_high_a": 76.0
+  },
+  {
+    "school_a": "University of Virginia",
+    "school_b": "University of California, Irvine",
+    "pct_a": 62.0,
+    "ci_low_a": 48.3,
+    "ci_high_a": 75.1
+  },
+  {
+    "school_a": "University of Virginia",
+    "school_b": "Boston College",
+    "pct_a": 74.0,
+    "ci_low_a": 62.7,
+    "ci_high_a": 84.4
+  },
+  {
+    "school_a": "University of Virginia",
+    "school_b": "Tufts University",
+    "pct_a": 76.0,
+    "ci_low_a": 63.0,
+    "ci_high_a": 88.0
+  },
+  {
+    "school_a": "University of Virginia",
+    "school_b": "University of Illinois at Urbana-Champaign",
+    "pct_a": 47.0,
+    "ci_low_a": 35.8,
+    "ci_high_a": 58.8
+  },
+  {
+    "school_a": "University of Virginia",
+    "school_b": "University of Wisconsin - Madison",
+    "pct_a": 62.0,
+    "ci_low_a": 48.3,
+    "ci_high_a": 75.1
+  },
+  {
+    "school_a": "University of Virginia",
+    "school_b": "University of California, Santa Barbara",
+    "pct_a": 64.0,
+    "ci_low_a": 51.8,
+    "ci_high_a": 77.1
+  },
+  {
+    "school_a": "University of Southern California",
+    "school_b": "University of California, San Diego",
+    "pct_a": 86.0,
+    "ci_low_a": 83.0,
+    "ci_high_a": 88.2
+  },
+  {
+    "school_a": "University of Southern California",
+    "school_b": "University of Florida",
+    "pct_a": 77.0,
+    "ci_low_a": 66.7,
+    "ci_high_a": 87.8
+  },
+  {
+    "school_a": "University of Southern California",
+    "school_b": "University of Texas at Austin",
+    "pct_a": 65.0,
+    "ci_low_a": 58.6,
+    "ci_high_a": 72.1
+  },
+  {
+    "school_a": "University of Southern California",
+    "school_b": "Georgia Institute of Technology",
+    "pct_a": 63.0,
+    "ci_low_a": 52.7,
+    "ci_high_a": 72.4
+  },
+  {
+    "school_a": "University of Southern California",
+    "school_b": "New York University",
+    "pct_a": 87.0,
+    "ci_low_a": 83.2,
+    "ci_high_a": 90.7
+  },
+  {
+    "school_a": "University of Southern California",
+    "school_b": "University of California, Davis",
+    "pct_a": 83.0,
+    "ci_low_a": 78.7,
+    "ci_high_a": 87.2
+  },
+  {
+    "school_a": "University of Southern California",
+    "school_b": "University of California, Irvine",
+    "pct_a": 80.0,
+    "ci_low_a": 77.1,
+    "ci_high_a": 83.2
+  },
+  {
+    "school_a": "University of Southern California",
+    "school_b": "Boston College",
+    "pct_a": 54.0,
+    "ci_low_a": 44.1,
+    "ci_high_a": 63.0
+  },
+  {
+    "school_a": "University of Southern California",
+    "school_b": "Tufts University",
+    "pct_a": 67.0,
+    "ci_low_a": 50.3,
+    "ci_high_a": 83.9
+  },
+  {
+    "school_a": "University of Southern California",
+    "school_b": "University of Illinois at Urbana-Champaign",
+    "pct_a": 72.0,
+    "ci_low_a": 66.0,
+    "ci_high_a": 78.9
+  },
+  {
+    "school_a": "University of Southern California",
+    "school_b": "University of Wisconsin - Madison",
+    "pct_a": 76.0,
+    "ci_low_a": 69.1,
+    "ci_high_a": 82.3
+  },
+  {
+    "school_a": "University of Southern California",
+    "school_b": "University of California, Santa Barbara",
+    "pct_a": 90.0,
+    "ci_low_a": 87.5,
+    "ci_high_a": 92.6
+  },
+  {
+    "school_a": "University of California, San Diego",
+    "school_b": "University of Florida",
+    "pct_a": 64.0,
+    "ci_low_a": 53.5,
+    "ci_high_a": 73.9
+  },
+  {
+    "school_a": "University of California, San Diego",
+    "school_b": "University of Texas at Austin",
+    "pct_a": 32.0,
+    "ci_low_a": 27.0,
+    "ci_high_a": 37.8
+  },
+  {
+    "school_a": "University of California, San Diego",
+    "school_b": "Georgia Institute of Technology",
+    "pct_a": 27.0,
+    "ci_low_a": 19.5,
+    "ci_high_a": 34.8
+  },
+  {
+    "school_a": "University of California, San Diego",
+    "school_b": "New York University",
+    "pct_a": 71.0,
+    "ci_low_a": 65.5,
+    "ci_high_a": 77.5
+  },
+  {
+    "school_a": "University of California, San Diego",
+    "school_b": "University of California, Davis",
+    "pct_a": 63.0,
+    "ci_low_a": 60.8,
+    "ci_high_a": 65.2
+  },
+  {
+    "school_a": "University of California, San Diego",
+    "school_b": "University of California, Irvine",
+    "pct_a": 51.0,
+    "ci_low_a": 49.6,
+    "ci_high_a": 53.0
+  },
+  {
+    "school_a": "University of California, San Diego",
+    "school_b": "Boston College",
+    "pct_a": 44.0,
+    "ci_low_a": 31.3,
+    "ci_high_a": 56.1
+  },
+  {
+    "school_a": "University of California, San Diego",
+    "school_b": "Tufts University",
+    "pct_a": 33.0,
+    "ci_low_a": 18.0,
+    "ci_high_a": 48.0
+  },
+  {
+    "school_a": "University of California, San Diego",
+    "school_b": "University of Illinois at Urbana-Champaign",
+    "pct_a": 50.0,
+    "ci_low_a": 44.3,
+    "ci_high_a": 55.7
+  },
+  {
+    "school_a": "University of California, San Diego",
+    "school_b": "University of Wisconsin - Madison",
+    "pct_a": 29.0,
+    "ci_low_a": 23.3,
+    "ci_high_a": 35.2
+  },
+  {
+    "school_a": "University of California, San Diego",
+    "school_b": "University of California, Santa Barbara",
+    "pct_a": 66.0,
+    "ci_low_a": 64.1,
+    "ci_high_a": 67.9
+  },
+  {
+    "school_a": "University of Florida",
+    "school_b": "University of Texas at Austin",
+    "pct_a": 34.0,
+    "ci_low_a": 27.3,
+    "ci_high_a": 40.6
+  },
+  {
+    "school_a": "University of Florida",
+    "school_b": "Georgia Institute of Technology",
+    "pct_a": 32.0,
+    "ci_low_a": 26.5,
+    "ci_high_a": 38.0
+  },
+  {
+    "school_a": "University of Florida",
+    "school_b": "New York University",
+    "pct_a": 53.0,
+    "ci_low_a": 40.4,
+    "ci_high_a": 66.3
+  },
+  {
+    "school_a": "University of Florida",
+    "school_b": "University of California, Davis",
+    "pct_a": 54.0,
+    "ci_low_a": 40.0,
+    "ci_high_a": 67.8
+  },
+  {
+    "school_a": "University of Florida",
+    "school_b": "University of California, Irvine",
+    "pct_a": 40.0,
+    "ci_low_a": 24.5,
+    "ci_high_a": 55.2
+  },
+  {
+    "school_a": "University of Florida",
+    "school_b": "Boston College",
+    "pct_a": 72.0,
+    "ci_low_a": 57.6,
+    "ci_high_a": 86.2
+  },
+  {
+    "school_a": "University of Florida",
+    "school_b": "Tufts University",
+    "pct_a": null,
+    "ci_low_a": null,
+    "ci_high_a": null
+  },
+  {
+    "school_a": "University of Florida",
+    "school_b": "University of Illinois at Urbana-Champaign",
+    "pct_a": 32.0,
+    "ci_low_a": 24.7,
+    "ci_high_a": 40.0
+  },
+  {
+    "school_a": "University of Florida",
+    "school_b": "University of Wisconsin - Madison",
+    "pct_a": 52.0,
+    "ci_low_a": 44.9,
+    "ci_high_a": 59.1
+  },
+  {
+    "school_a": "University of Florida",
+    "school_b": "University of California, Santa Barbara",
+    "pct_a": 55.0,
+    "ci_low_a": 39.5,
+    "ci_high_a": 69.7
+  },
+  {
+    "school_a": "University of Texas at Austin",
+    "school_b": "Georgia Institute of Technology",
+    "pct_a": 52.0,
+    "ci_low_a": 46.2,
+    "ci_high_a": 57.8
+  },
+  {
+    "school_a": "University of Texas at Austin",
+    "school_b": "New York University",
+    "pct_a": 52.0,
+    "ci_low_a": 45.2,
+    "ci_high_a": 58.1
+  },
+  {
+    "school_a": "University of Texas at Austin",
+    "school_b": "University of California, Davis",
+    "pct_a": 59.0,
+    "ci_low_a": 49.9,
+    "ci_high_a": 68.8
+  },
+  {
+    "school_a": "University of Texas at Austin",
+    "school_b": "University of California, Irvine",
+    "pct_a": 75.0,
+    "ci_low_a": 67.6,
+    "ci_high_a": 82.6
+  },
+  {
+    "school_a": "University of Texas at Austin",
+    "school_b": "Boston College",
+    "pct_a": 72.0,
+    "ci_low_a": 60.1,
+    "ci_high_a": 83.2
+  },
+  {
+    "school_a": "University of Texas at Austin",
+    "school_b": "Tufts University",
+    "pct_a": 60.0,
+    "ci_low_a": 40.1,
+    "ci_high_a": 80.6
+  },
+  {
+    "school_a": "University of Texas at Austin",
+    "school_b": "University of Illinois at Urbana-Champaign",
+    "pct_a": 65.0,
+    "ci_low_a": 59.0,
+    "ci_high_a": 70.0
+  },
+  {
+    "school_a": "University of Texas at Austin",
+    "school_b": "University of Wisconsin - Madison",
+    "pct_a": 75.0,
+    "ci_low_a": 68.0,
+    "ci_high_a": 81.1
+  },
+  {
+    "school_a": "University of Texas at Austin",
+    "school_b": "University of California, Santa Barbara",
+    "pct_a": 55.0,
+    "ci_low_a": 47.2,
+    "ci_high_a": 63.4
+  },
+  {
+    "school_a": "Georgia Institute of Technology",
+    "school_b": "New York University",
+    "pct_a": 72.0,
+    "ci_low_a": 62.0,
+    "ci_high_a": 81.2
+  },
+  {
+    "school_a": "Georgia Institute of Technology",
+    "school_b": "University of California, Davis",
+    "pct_a": 57.0,
+    "ci_low_a": 44.0,
+    "ci_high_a": 70.5
+  },
+  {
+    "school_a": "Georgia Institute of Technology",
+    "school_b": "University of California, Irvine",
+    "pct_a": 57.0,
+    "ci_low_a": 46.4,
+    "ci_high_a": 68.0
+  },
+  {
+    "school_a": "Georgia Institute of Technology",
+    "school_b": "Boston College",
+    "pct_a": 76.0,
+    "ci_low_a": 63.0,
+    "ci_high_a": 88.0
+  },
+  {
+    "school_a": "Georgia Institute of Technology",
+    "school_b": "Tufts University",
+    "pct_a": 60.0,
+    "ci_low_a": 40.1,
+    "ci_high_a": 80.6
+  },
+  {
+    "school_a": "Georgia Institute of Technology",
+    "school_b": "University of Illinois at Urbana-Champaign",
+    "pct_a": 63.0,
+    "ci_low_a": 56.5,
+    "ci_high_a": 68.6
+  },
+  {
+    "school_a": "Georgia Institute of Technology",
+    "school_b": "University of Wisconsin - Madison",
+    "pct_a": 65.0,
+    "ci_low_a": 57.9,
+    "ci_high_a": 72.4
+  },
+  {
+    "school_a": "Georgia Institute of Technology",
+    "school_b": "University of California, Santa Barbara",
+    "pct_a": 72.0,
+    "ci_low_a": 60.1,
+    "ci_high_a": 83.2
+  },
+  {
+    "school_a": "New York University",
+    "school_b": "University of California, Davis",
+    "pct_a": 48.0,
+    "ci_low_a": 39.0,
+    "ci_high_a": 57.6
+  },
+  {
+    "school_a": "New York University",
+    "school_b": "University of California, Irvine",
+    "pct_a": 45.0,
+    "ci_low_a": 36.6,
+    "ci_high_a": 52.8
+  },
+  {
+    "school_a": "New York University",
+    "school_b": "Boston College",
+    "pct_a": 72.0,
+    "ci_low_a": 57.6,
+    "ci_high_a": 86.2
+  },
+  {
+    "school_a": "New York University",
+    "school_b": "Tufts University",
+    "pct_a": 60.0,
+    "ci_low_a": 40.1,
+    "ci_high_a": 80.6
+  },
+  {
+    "school_a": "New York University",
+    "school_b": "University of Illinois at Urbana-Champaign",
+    "pct_a": 48.0,
+    "ci_low_a": 39.4,
+    "ci_high_a": 57.4
+  },
+  {
+    "school_a": "New York University",
+    "school_b": "University of Wisconsin - Madison",
+    "pct_a": 34.0,
+    "ci_low_a": 26.2,
+    "ci_high_a": 42.2
+  },
+  {
+    "school_a": "New York University",
+    "school_b": "University of California, Santa Barbara",
+    "pct_a": 39.0,
+    "ci_low_a": 31.5,
+    "ci_high_a": 47.4
+  },
+  {
+    "school_a": "University of California, Davis",
+    "school_b": "University of California, Irvine",
+    "pct_a": 37.0,
+    "ci_low_a": 34.2,
+    "ci_high_a": 39.3
+  },
+  {
+    "school_a": "University of California, Davis",
+    "school_b": "Boston College",
+    "pct_a": 33.0,
+    "ci_low_a": 16.1,
+    "ci_high_a": 49.7
+  },
+  {
+    "school_a": "University of California, Davis",
+    "school_b": "Tufts University",
+    "pct_a": null,
+    "ci_low_a": null,
+    "ci_high_a": null
+  },
+  {
+    "school_a": "University of California, Davis",
+    "school_b": "University of Illinois at Urbana-Champaign",
+    "pct_a": 49.0,
+    "ci_low_a": 42.0,
+    "ci_high_a": 56.0
+  },
+  {
+    "school_a": "University of California, Davis",
+    "school_b": "University of Wisconsin - Madison",
+    "pct_a": 63.0,
+    "ci_low_a": 54.8,
+    "ci_high_a": 71.1
+  },
+  {
+    "school_a": "University of California, Davis",
+    "school_b": "University of California, Santa Barbara",
+    "pct_a": 51.0,
+    "ci_low_a": 48.3,
+    "ci_high_a": 53.8
+  },
+  {
+    "school_a": "University of California, Irvine",
+    "school_b": "Boston College",
+    "pct_a": 43.0,
+    "ci_low_a": 24.0,
+    "ci_high_a": 61.3
+  },
+  {
+    "school_a": "University of California, Irvine",
+    "school_b": "Tufts University",
+    "pct_a": 50.0,
+    "ci_low_a": 29.3,
+    "ci_high_a": 70.7
+  },
+  {
+    "school_a": "University of California, Irvine",
+    "school_b": "University of Illinois at Urbana-Champaign",
+    "pct_a": 32.0,
+    "ci_low_a": 24.4,
+    "ci_high_a": 38.9
+  },
+  {
+    "school_a": "University of California, Irvine",
+    "school_b": "University of Wisconsin - Madison",
+    "pct_a": 26.0,
+    "ci_low_a": 18.0,
+    "ci_high_a": 33.4
+  },
+  {
+    "school_a": "University of California, Irvine",
+    "school_b": "University of California, Santa Barbara",
+    "pct_a": 67.0,
+    "ci_low_a": 65.1,
+    "ci_high_a": 69.7
+  },
+  {
+    "school_a": "Boston College",
+    "school_b": "Tufts University",
+    "pct_a": 43.0,
+    "ci_low_a": 24.0,
+    "ci_high_a": 61.3
+  },
+  {
+    "school_a": "Boston College",
+    "school_b": "University of Illinois at Urbana-Champaign",
+    "pct_a": 50.0,
+    "ci_low_a": 34.1,
+    "ci_high_a": 65.9
+  },
+  {
+    "school_a": "Boston College",
+    "school_b": "University of Wisconsin - Madison",
+    "pct_a": 36.0,
+    "ci_low_a": 22.9,
+    "ci_high_a": 48.2
+  },
+  {
+    "school_a": "Boston College",
+    "school_b": "University of California, Santa Barbara",
+    "pct_a": 72.0,
+    "ci_low_a": 57.6,
+    "ci_high_a": 86.2
+  },
+  {
+    "school_a": "Tufts University",
+    "school_b": "University of Illinois at Urbana-Champaign",
+    "pct_a": 43.0,
+    "ci_low_a": 24.0,
+    "ci_high_a": 61.3
+  },
+  {
+    "school_a": "Tufts University",
+    "school_b": "University of Wisconsin - Madison",
+    "pct_a": 60.0,
+    "ci_low_a": 40.1,
+    "ci_high_a": 80.6
+  },
+  {
+    "school_a": "Tufts University",
+    "school_b": "University of California, Santa Barbara",
+    "pct_a": 63.0,
+    "ci_low_a": 46.1,
+    "ci_high_a": 79.4
+  },
+  {
+    "school_a": "University of Illinois at Urbana-Champaign",
+    "school_b": "University of Wisconsin - Madison",
+    "pct_a": 69.0,
+    "ci_low_a": 66.9,
+    "ci_high_a": 70.9
+  },
+  {
+    "school_a": "University of Illinois at Urbana-Champaign",
+    "school_b": "University of California, Santa Barbara",
+    "pct_a": 57.0,
+    "ci_low_a": 49.5,
+    "ci_high_a": 64.8
+  },
+  {
+    "school_a": "University of Wisconsin - Madison",
+    "school_b": "University of California, Santa Barbara",
+    "pct_a": null,
+    "ci_low_a": null,
+    "ci_high_a": null
+  }
+]
